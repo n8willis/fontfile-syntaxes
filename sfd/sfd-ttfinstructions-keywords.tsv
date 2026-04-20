@@ -1,0 +1,276 @@
+token	source	sfdir_file  context_required	category    block_level    definition
+AA
+ABS
+ADD
+ALIGNPTS
+ALIGNRP
+AND
+CALL
+CEILING
+CINDEX
+CLEAR
+DEBUG
+DELTAC1
+DELTAC2
+DELTAC3
+DELTAP1
+DELTAP2
+DELTAP3
+DEPTH
+DIV
+DUP
+EIF
+ELSE
+ENDF
+EQ
+EVEN
+FDEF
+FLIPOFF
+FLIPON
+FLIPPT
+FLIPRGOFF
+FLIPRGON
+FLOOR
+GC
+cur	fontforge	all	ttasm_func	constant	
+orig	fontforge	all	ttasm_func	constant	
+GETINFO
+GFV
+GPV
+GT
+GTEQ
+IDEF
+IF
+INSTCTRL
+IP
+ISECT
+IUP
+x	fontforge	all	ttasm_func	constant	
+y	fontforge	all	ttasm_func	constant	
+JMPR
+JROF
+JROT
+LOOPCALL
+LT
+LTEQ
+MAX
+MDAP
+no-rnd	fontforge	all	ttasm_func	constant	
+rnd	fontforge	all	ttasm_func	constant	
+MDRP03
+MDRP07
+MDRP0b
+MDRP0f
+MDRP13
+MDRP17
+MDRP1b
+MDRP1f
+MDRP
+black	fontforge	all	ttasm_func	constant	
+grey	fontforge	all	ttasm_func	constant	
+min,black	fontforge	all	ttasm_func	constant	
+min,grey	fontforge	all	ttasm_func	constant	
+min,rnd,black	fontforge	all	ttasm_func	constant	
+min,rnd,grey	fontforge	all	ttasm_func	constant	
+min,rnd,white	fontforge	all	ttasm_func	constant	
+min,white	fontforge	all	ttasm_func	constant	
+rnd,black	fontforge	all	ttasm_func	constant	
+rnd,grey	fontforge	all	ttasm_func	constant	
+rnd,white	fontforge	all	ttasm_func	constant	
+rp0,black	fontforge	all	ttasm_func	constant	
+rp0,grey	fontforge	all	ttasm_func	constant	
+rp0,min,black	fontforge	all	ttasm_func	constant	
+rp0,min,grey	fontforge	all	ttasm_func	constant	
+rp0,min,rnd,black	fontforge	all	ttasm_func	constant	
+rp0,min,rnd,grey	fontforge	all	ttasm_func	constant	
+rp0,min,rnd,white	fontforge	all	ttasm_func	constant	
+rp0,min,white	fontforge	all	ttasm_func	constant	
+rp0,rnd,black	fontforge	all	ttasm_func	constant	
+rp0,rnd,grey	fontforge	all	ttasm_func	constant	
+rp0,rnd,white	fontforge	all	ttasm_func	constant	
+rp0,white	fontforge	all	ttasm_func	constant	
+white	fontforge	all	ttasm_func	constant	
+MD
+grid	fontforge	all	ttasm_func	constant	
+orig	fontforge	all	ttasm_func	constant	
+MIAP
+no-rnd	fontforge	all	ttasm_func	constant	
+rnd	fontforge	all	ttasm_func	constant	
+MIN
+MINDEX
+MIRP03
+MIRP07
+MIRP0b
+MIRP0f
+MIRP13
+MIRP17
+MIRP1b
+MIRP1f
+MIRP
+black	fontforge	all	ttasm_func	constant	
+grey	fontforge	all	ttasm_func	constant	
+min,black	fontforge	all	ttasm_func	constant	
+min,grey	fontforge	all	ttasm_func	constant	
+min,rnd,black	fontforge	all	ttasm_func	constant	
+min,rnd,grey	fontforge	all	ttasm_func	constant	
+min,rnd,white	fontforge	all	ttasm_func	constant	
+min,white	fontforge	all	ttasm_func	constant	
+rnd,black	fontforge	all	ttasm_func	constant	
+rnd,grey	fontforge	all	ttasm_func	constant	
+rnd,white	fontforge	all	ttasm_func	constant	
+rp0,black	fontforge	all	ttasm_func	constant	
+rp0,grey	fontforge	all	ttasm_func	constant	
+rp0,min,black	fontforge	all	ttasm_func	constant	
+rp0,min,grey	fontforge	all	ttasm_func	constant	
+rp0,min,rnd,black	fontforge	all	ttasm_func	constant	
+rp0,min,rnd,grey	fontforge	all	ttasm_func	constant	
+rp0,min,rnd,white	fontforge	all	ttasm_func	constant	
+rp0,min,white	fontforge	all	ttasm_func	constant	
+rp0,rnd,black	fontforge	all	ttasm_func	constant	
+rp0,rnd,grey	fontforge	all	ttasm_func	constant	
+rp0,rnd,white	fontforge	all	ttasm_func	constant	
+rp0,white	fontforge	all	ttasm_func	constant	
+white	fontforge	all	ttasm_func	constant	
+MPPEM
+MPS
+MSIRP
+no-rp0	fontforge	all	ttasm_func	constant	
+rp0	fontforge	all	ttasm_func	constant	
+MUL
+NEG
+NEQ
+NOT
+NPUSHB
+NPUSHW
+NROUND
+Black	fontforge	all	ttasm_func	constant	
+Grey	fontforge	all	ttasm_func	constant	
+Undef4	fontforge	all	ttasm_func	constant	
+White	fontforge	all	ttasm_func	constant	
+ODD
+OR
+POP
+PUSHB_1
+PUSHB_2
+PUSHB_3
+PUSHB_4
+PUSHB_5
+PUSHB_6
+PUSHB_7
+PUSHB_8
+PUSHW_1
+PUSHW_2
+PUSHW_3
+PUSHW_4
+PUSHW_5
+PUSHW_6
+PUSHW_7
+PUSHW_8
+RCVT
+RDTG
+ROFF
+ROLL
+ROUND
+Black	fontforge	all	ttasm_func	constant	
+Grey	fontforge	all	ttasm_func	constant	
+Undef4	fontforge	all	ttasm_func	constant	
+White	fontforge	all	ttasm_func	constant	
+RS
+RTDG
+RTG
+RTHG
+RUTG
+S45ROUND
+SANGW
+SCANCTRL
+SCANTYPE
+SCFS
+SCVTCI
+SDB
+SDPVTL
+orthog	fontforge	all	ttasm_func	constant	
+parallel	fontforge	all	ttasm_func	constant	
+SDS
+SFVFS
+SFVTCA
+x-axis	fontforge	all	ttasm_func	constant	
+y-axis	fontforge	all	ttasm_func	constant	
+SFVTL
+orthog	fontforge	all	ttasm_func	constant	
+parallel	fontforge	all	ttasm_func	constant	
+SFVTPV
+SHC
+rp1	fontforge	all	ttasm_func	constant	
+rp2	fontforge	all	ttasm_func	constant	
+SHPIX
+SHP
+rp1	fontforge	all	ttasm_func	constant	
+rp2	fontforge	all	ttasm_func	constant	
+SHZ
+rp1	fontforge	all	ttasm_func	constant	
+rp2	fontforge	all	ttasm_func	constant	
+SLOOP
+SMD
+SPVFS
+SPVTCA
+x-axis	fontforge	all	ttasm_func	constant	
+y-axis	fontforge	all	ttasm_func	constant	
+SPVTL
+orthog	fontforge	all	ttasm_func	constant	
+parallel	fontforge	all	ttasm_func	constant	
+SROUND
+SRP0
+SRP1
+SRP2
+SSW
+SSWCI
+SUB
+SVTCA
+x-axis	fontforge	all	ttasm_func	constant	
+y-axis	fontforge	all	ttasm_func	constant	
+SWAP
+SZP0
+SZP1
+SZP2
+SZPS
+UTP
+Unknown28
+Unknown7B
+Unknown83
+Unknown84
+Unknown8F
+Unknown90
+Unknown91
+Unknown92
+Unknown93
+Unknown94
+Unknown95
+Unknown96
+Unknown97
+Unknown98
+Unknown99
+Unknown9A
+Unknown9B
+Unknown9C
+Unknown9D
+Unknown9E
+Unknown9F
+UnknownA0
+UnknownA1
+UnknownA2
+UnknownA3
+UnknownA4
+UnknownA5
+UnknownA6
+UnknownA7
+UnknownA8
+UnknownA9
+UnknownAA
+UnknownAB
+UnknownAC
+UnknownAD
+UnknownAE
+UnknownAF
+WCVTF
+WCVTP
+WS

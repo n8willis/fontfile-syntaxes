@@ -1,0 +1,174 @@
+token	source	context_required	category	definition
+anchorDef	spec	anywhere	block_start
+anon	spec	anywhere	block_start
+anonymous	spec	anywhere	block_start
+feature	spec	anywhere	block_start
+language	spec	anywhere	block_start
+lookup	spec	anywhere	block_start
+script	spec	anywhere	block_start
+table	spec	anywhere	block_start
+cvParameters	spec	anywhere	block_start
+valueRecordDef	spec	anywhere	block_start
+featureNames	spec	anywhere	block_start
+GlyphClassDef	spec	anywhere	block_start
+parameters	spec	anywhere	block_start
+DesignAxis	spec	anywhere	block_start
+AxisValue	spec	anywhere	block_start
+ElidedFallbackName	spec	anywhere	block_start
+UnicodeRange	spec	anywhere	block_start
+CodepointRange	spec	anywhere	block_start
+lookup	spec	anywhere	function_declarator
+feature	spec	anywhere	function_declarator Specifies an OpenType feature.
+anon	spec	anywhere	function_declarator
+anoymous	spec	anywhere	function_declarator
+pos	spec	anywhere	builtin
+position	spec	anywhere	builtin
+sub	spec	anywhere	builtin
+substitute	spec	anywhere	builtin
+enum	spec	anywhere	builtin
+enumerate	spec	anywhere	builtin
+ignore	spec	anywhere	builtin	(used with substitute and position)
+reversesub	spec	anywhere	builtin
+rsub	spec	anywhere	builtin
+useExtension	spec	anywhere	builtin
+exclude_dflt	spec	anywhere	builtin
+include	spec	anywhere	builtin
+include_dflt	spec	anywhere	builtin
+subtable	spec	anywhere	builtin
+excludeDFLT	spec	anywhere	builtin	(deprecated)
+includeDFLT	spec	anywhere	builtin	(deprecated)
+NULL	spec	anywhere	constant
+RightToLeft	spec	anywhere	constant
+IgnoreBaseGlyphs	spec	anywhere	constant
+IgnoreLigatures	spec	anywhere	constant
+IgnoreMarks	spec	anywhere	constant
+MarkAttachmentType	spec	anywhere	constant
+UseMarkFilteringSet	spec	anywhere	constant
+ElidableAxisValueName	spec	anywhere	constant
+OlderSiblingFontAttribute	spec	anywhere	constant
+<anchor num num | num num num num>	spec	anywhere	type_declarator
+<device num num | num num num num>	spec	anywhere	type_declarator	Represents a single device table or a null offset to it.
+anchorDef	spec	anywhere	type_declarator		Defines a named anchor. This name can then be used in anchor definitions instead of coordinates.
+valueRecordDef	spec	anywhere	type_declarator	Used to define a named value record.
+@glyphClassName	spec	anywhere	type_declarator	Represents a single glyph position in a sequence.
+markClass	spec	anywhere	type_declarator
+DesignAxis	spec	anywhere	type_declarator	or is this a vanilla type?
+lookupflag	spec	anywhere	type
+flag	spec	anywhere	type
+base	spec	anywhere	type
+mark	spec	anywhere	type	(can also be used as a tag or lookup block label)
+nameid	spec	anywhere	type
+contourpoint	spec	anywhere	type	Specifies a contour point index. Used only with TrueType-flavored OpenType fonts.
+languagesystem	spec	anywhere	type
+AxisValue	spec	anywhere	type
+parameters	spec	anywhere	property    Specifies the feature parameters for the currently defined language system. 
+name	spec	anywhere	property
+cvParameters	spec	anywhere	property
+FeatUILabelNameID	spec	anywhere	property
+FeatUITooltipTextNameID	spec	anywhere	property
+SampleTextNameID	spec	anywhere	property
+ParamUILabelNameID	spec	anywhere	property
+Character	spec	anywhere	property
+HorizAxis.BaseScriptList	spec	table_block_BASE	property
+HorizAxis.BaseTagList	spec	table_block_BASE	property
+HorizAxis.MinMax 	spec	table_block_BASE	property
+VertAxis.BaseScriptList	spec	table_block_BASE	property
+VertAxis.BaseTagList	spec	table_block_BASE	property
+VertAxis.MinMax	spec	table_block_BASE	property
+Attach	spec	table_block_GDEF	property
+GlyphClassDef	spec	table_block_GDEF	property	?? type_declarator?
+LigatureCaretByDev	spec	table_block_GDEF	property
+LigatureCaretByIndex	spec	table_block_GDEF	property
+LigatureCaretByPos	spec	table_block_GDEF	property
+FontRevision	spec	table_block_head	property
+Ascender	spec	table_block_hhea	property
+CaretOffset	spec	table_block_hhea	property
+Descender	spec	table_block_hhea	property
+LineGap	spec	table_block_hhea	property
+CapHeight	spec	table_block_OS_2	property
+CodePageRange	spec	table_block_OS_2	property
+Panose	spec	table_block_OS_2	property
+TypoAscender	spec	table_block_OS_2	property
+TypoDescender	spec	table_block_OS_2	property
+TypoLineGap	spec	table_block_OS_2	property
+UnicodeRange	spec	table_block_OS_2	property
+Vendor	spec	table_block_OS_2	property
+winAscent	spec	table_block_OS_2	property
+winDescent	spec	table_block_OS_2	property
+XHeight	spec	table_block_OS_2	property
+sizemenuname	spec	feature_block_size	property
+VertTypoAscender	spec	table_block_vhea	property
+VertTypoDescender	spec	table_block_vhea	property
+VertTypoLineGap	spec	table_block_vhea	property
+VertAdvanceY	spec	table_block_vtmx	property
+VertOriginY	spec	table_block_vtmx	property
+ElidedFallbackName	spec	table_block_STAT	property
+ElidedFallbackNameID	spec	table_block_STAT	property
+location	spec	table_block_STAT	property
+LowerOpSize	spec	anywhere	property
+UpperOpSize	spec	anywhere	property
+FamilyClass	spec	anywhere	property
+by	spec	anywhere	keyword
+cursive	spec	anywhere	keyword
+feature	spec	anywhere	keyword
+from	spec	anywhere	keyword
+required	spec	anywhere	keyword	[ Not implemented ]
+anon	spec	anywhere	keyword
+anonymous	spec	anywhere	keyword
+language	spec	anywhere	keyword
+lookup	spec	anywhere	keyword
+script	spec	anywhere	keyword
+table	spec	anywhere	keyword
+ligature	spec	anywhere	keyword
+anchor	spec	anywhere	keyword
+anchorDef	spec	anywhere	keyword
+valueRecordDef	spec	anywhere	keyword
+@glyphClassName	spec	anywhere	keyword
+markClass	spec	anywhere	keyword
+DesignAxis	spec	anywhere	keyword
+#	spec	anywhere	comment
+# >>>	feapy	anywhere	preprocessor_start
+# <<<	feapy	anywhere	preprocessor_end
+baseClass	feax	type
+kernpairs	feax	type
+ifinfo	feax	block_start
+ifclass	feax	block_start
+ifinfo	feax	keyword
+ifclass	feax	keyword
+do	feax	keyword
+for	feax	keyword
+let	feax	keyword	?? declarator?
+forlet	feax	keyword
+if	feax	keyword
+def	feax	keyword	?? declarator?
+$	glyphs	variable_name
+${}	glyphs	variable_name
+${: }	glyphs	property
+category	glyphs	property
+case	glyphs	property
+isAligned	glyphs	property
+hasHints	glyphs	property
+isColorGlyph	glyphs	property
+countOfLayers	glyphs	property
+countOfUnicodes	glyphs	property
+direction	glyphs	property
+layer	glyphs	property
+tags	glyphs	property
+note	glyphs	property
+VARIABLE	glyphs	property
+delete	glyphs	builtin
+#ifdef	glyphs	preprocessor_start
+#endif	glyphs	preprocessor_end
+class	glyphs	type
+endswidth	glyphs	keyword
+AND	glyphs	keyword
+OR	glyphs	keyword
+NOT	glyphs	keyword
+in	glyphs	keyword
+standalone	glyphs	keyword
+$	fez	builtin
+&	fez	builtin
+anchors	fez	type
+@word.suffix	fez	variable_name
+[].suffix	fez	variable_name
+

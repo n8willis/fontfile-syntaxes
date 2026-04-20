@@ -1,0 +1,109 @@
+acnt	apple	Accent attachment
+ankr	apple	Anchor point
+avar	spec	Axis variation
+BASE 	spec	Baseline data
+bdat	apple	Bitmap data
+BDF  	fontforge	FontForge X11 BDF header
+bhed	apple	Bitmap font header
+bloc 	apple	Bitmap location data
+bsln 	apple	Baseline data
+CBDT 	spec	Color bitmap data
+CBLC 	spec	Color bitmap location data
+cidg	apple	CID-to-glyph mapping
+CFF 	spec	Compact Font Format
+CFF2	spec	Compact Font Format version 2
+clas	apple	Apple TrueEdit names
+cmap 	spec	Character to glyph mapping
+COLR 	spec	Color table
+CPAL 	spec	Color palette table
+cvar 	spec	Variations on CVT table
+cvt 	spec	Control value table
+Debg	fonttools	FontTools debugging
+DSIG 	spec	Digital signature
+edt0	apple	Apple RoyalT data
+edt1	apple	Apple RoyalT data
+EBDT 	spec	Embedded bitmap data
+EBLC 	spec	Embedded bitmap location
+EBSC	spec	Embedded bitmap scaling control
+EPAR	proposed	End-user license agreement
+fdsc	apple	Font descriptor
+feat 	apple	Layout feature table
+Feat	graphite	Graphite features
+FFTM 	fontforge	FontForge timestamp
+fmtx	apple	Font metrics
+fond	apple	Font family compatibility
+fpgm 	spec	Font program
+fvar	spec	Font variation
+gasp	spec	Grid-fitting and scan-conversion procedure
+gcid	apple	Glyph-to-CID mapping
+GDEF 	spec	Glyph definition data
+Glat	graphite	Glyph attributes table
+Gloc	graphite	Indexes for Glat table
+glyf	spec	Glyph outline
+GMAP	adobe	Adobe self-contained glyphlets ????????????????????
+GPKG	adobe	Adobe self-contained glyphlets ????????????????????
+GPOS 	spec	Glyph positioning data
+GSUB 	spec	Glyph substitution data
+gvar	spec	Glyph variation
+hdmx 	spec	Horizontal device metrics
+head 	spec	Font header
+hhea 	spec	Horizontal header
+hmtx 	spec	Horizontal metrics
+HVAR	spec	Horizontal metrics variations
+hvgl	apple	Hierarchical Variation glyphs and components
+hvpm	apple	Hierarchical Variation part remapping
+JSTF 	spec	Justification data
+just	apple	Justification
+kern 	spec	Kerning
+kerx	apple	Extended kerning
+lcar	apple	Ligature caret
+loca	spec	Glyph location
+ltag	apple	Language tag
+LTSH 	spec	Linear threshold data
+MATH 	spec	Mathematical typesetting
+maxp 	spec	Maximum profile
+MERG	spec	Merge
+meta	spec	Metadata
+META	adobe	Adobe self-contained glyphlets ??????????????????????
+mort	apple	Metamorphosis (deprecated)
+morx	apple	Extended metamorphosis
+MVAR	spec	Metrics variations
+name 	spec	Name
+opbd 	apple	Optical bounds
+OS/2 	spec	OS/2 and Windows specific metrics
+PCLT 	spec	PCL 5 data
+PfEd 	fontforge	FontForge data
+post	spec	Glyph name and PostScript compatibility
+prep	spec	Control value program
+prop 	apple	Glyph properties
+sbix	spec	Extended bitmaps
+Silf	graphite	Main logic, including finite state machine for rule matching, constraints, and rule action code
+Sill	graphite	Language table, containing mappings between language codes and features
+SING	adobe	Adobe self-contained glyphlets
+STAT	spec	Style attributes
+SVG 	spec	Scalable Vector Graphics
+TeX 	graphite	TeX information
+TR00	apple	TrueEdit source
+TSI0	microsoft	VTT Glyph program text indices
+TSI1	microsoft	VTT Glyph program text UTF-8 text dump
+TSI2	microsoft	VTT Talk text indices
+TSI3	microsoft	VTT Talk UTF-8 text dump
+TSI5	microsoft	VTT Character group flag
+TSIB	microsoft	VTT BASE table text source
+TSIC	microsoft	VTT Variation CVT window source
+TSID	microsoft	VTT GDEF table text source
+TSIJ	microsoft	VTT JSTF table text source
+TSIP	microsoft	VTT GPOS table text source
+TSIS	microsoft	VTT GSUB table text source
+TSIV	microsoft	VTT data
+TTFA	ttfautohint	TTFautohint parameters
+trak	apple	Tracking
+varc	spec	Variable components
+VDMX 	spec	Vertical device metrics
+vhea 	spec	Vertical Metrics header
+vmtx 	spec	Vertical Metrics
+VOLT	microsoft	Visual OpenType Layout data
+VORG 	spec	Vertical Origin
+VVAR	spec	Vertical metrics variations
+xref	apple	Cross-reference
+Zapf	apple	Glyph reference

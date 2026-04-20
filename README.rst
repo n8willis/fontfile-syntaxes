@@ -8,7 +8,7 @@ different font-related file formats.
 I started assembling this data when I was working on my second
 syntax-highlighting package for the Adobe ``.fea`` format and realized
 (relatively) quickly that leveraging the amount of repetition involved
-would speed up the process of doing more of them (targetting other
+would speed up the process of doing more of them (targeting other
 outputs).
 
 Orthogonally to that, it was clear that there are quite a few names,
