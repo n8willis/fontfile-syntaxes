@@ -1,210 +1,210 @@
-token	source	context_required	block_level	category	definition
-# <<<	feapy	anywhere	neutral	preprocessor_end	Designates the final line for the current block of FeaPy Python code.
-# >>>	feapy	anywhere	neutral	preprocessor_start	Designates the starting line of a new block of FeaPy Python code.
-baseClass	feax	anywhere	neutral	type	
-def	feax	anywhere	neutral	function_declarator	?? declarator?
-do	feax	anywhere	neutral	keyword	
-for	feax	anywhere	neutral	keyword	
-forlet	feax	anywhere	neutral	keyword	
-if	feax	anywhere	neutral	keyword	
-ifclass	feax	anywhere	block_start	keyword	
-ifinfo	feax	anywhere	block_start	keyword	
-kernpairs	feax	anywhere	neutral	builtin	
-let	feax	anywhere	neutral	keyword	?? declarator?
-.	fez	anywhere	neutral	punctuation	
-hasglyph	fez	anywhere	neutral	builtin	
-&	fez	anywhere	neutral	operator	
-$	fez	anywhere	neutral	keyword	variable declarator
-^	fez	anywhere	neutral	operator	
-U+	fez	anywhere	neutral	operator	
-DefineClass	fez	anywhere	neutral	type	
-DefineClassBinned	fez	anywhere	neutral	type	
-Feature	fez	anywhere	neutral	function_declarator	
-Routine	fez	anywhere	neutral	function_declarator	
-Substitute	fez	anywhere	neutral	function_declarator	
-ReverseSubstitute	fez	anywhere	neutral	function_declarator	
-Position	fez	anywhere	neutral	function_declarator	
-Chain	fez	anywhere	neutral	function_declarator	
-Anchors	fez	anywhere	neutral	function_declarator	
-If	fez	anywhere	neutral	keyword	
-For	fez	anywhere	neutral	keyword	
-Set	fez	anywhere	neutral	keyword	
-Include	fez	anywhere	neutral	builtin	
-IgnoreBases	fez	anywhere	neutral	constant_flag	
-LoadPlugin	fez	anywhere	neutral	builtin	
-Loadanchors	fez	anywhere	neutral	builtin	
-FeatureName	fez	anywhere	neutral	property	
-hasanchor	fez	anywhere	neutral	builtin	
-ShowClass	fez	anywhere	neutral	builtin	
-category	fez	anywhere	neutral	property	
-width	fez	anywhere	neutral	property	
-lsb	fez	anywhere	neutral	property	
-rsb	fez	anywhere	neutral	property	
-xMin	fez	anywhere	neutral	property	
-xMax	fez	anywhere	neutral	property	
-yMin	fez	anywhere	neutral	property	
-yMax	fez	anywhere	neutral	property	
-rise	fez	anywhere	neutral	property	
-fullwidth	fez	anywhere	neutral	property	
-# Automatic Code	fontra	anywhere	neutral	preprocessor_singleton	
-#endif	glyphs	anywhere	block_end	preprocessor_end	
-#ifdef	glyphs	anywhere	block_start	preprocessor_start	
-$	glyphs	anywhere	neutral	variable_name	
-${: }	glyphs	anywhere	neutral	property	
-${}	glyphs	anywhere	neutral	variable_name	
-AND	glyphs	anywhere	neutral	keyword	
-case	glyphs	anywhere	neutral	property	
-category	glyphs	anywhere	neutral	property	
-class	glyphs	anywhere	neutral	type	
-countOfLayers	glyphs	anywhere	neutral	property	
-countOfUnicodes	glyphs	anywhere	neutral	property	
-delete	glyphs	anywhere	neutral	builtin	
-direction	glyphs	anywhere	neutral	property	
-endswidth	glyphs	anywhere	neutral	keyword	
-hasHints	glyphs	anywhere	neutral	property	
-in	glyphs	anywhere	neutral	keyword	
-isAligned	glyphs	anywhere	neutral	property	
-isColorGlyph	glyphs	anywhere	neutral	property	
-layer	glyphs	anywhere	neutral	property	
-NOT	glyphs	anywhere	neutral	keyword	
-note	glyphs	anywhere	neutral	property	
-OR	glyphs	anywhere	neutral	keyword	
-standalone	glyphs	anywhere	neutral	keyword	
-tags	glyphs	anywhere	neutral	property	
-VARIABLE	glyphs	anywhere	neutral	property	
-@	spec	anywhere	neutral	operator	Defines a named glyph class.
-'	spec	anywhere	neutral	operator	
-#	spec	anywhere	neutral	comment	
-\	spec	anywhere	neutral	escape	
-;	spec	anywhere	neutral	punctuation	
-“	spec	anywhere	neutral	delimiter_string	
-+	spec	anywhere	neutral	operator	
--	spec	anywhere	neutral	operator	
-:	spec	anywhere	neutral	punctuation	
-,	spec	anywhere	neutral	punctuation	
-=	spec	anywhere	neutral	operator	
-<	spec	anywhere	neutral	punctuation_bracket	
->	spec	anywhere	neutral	punctuation_bracket	
-{	spec	anywhere	block_start	punctuation_bracket	
-}	spec	anywhere	block_end	punctuation_bracket	
-(	spec	anywhere	neutral	punctuation_bracket	
-)	spec	anywhere	neutral	punctuation_bracket	
-[	spec	anywhere	neutral	punctuation_bracket	
-]	spec	anywhere	neutral	punctuation_bracket	
-device	spec	anywhere	neutral	keyword	Represents a single device table or a null offset to it.
-anchor	spec	anywhere	neutral	keyword	Represents an anchor position.
-anchorDef	spec	anywhere	block_start	type	Defines a named anchor. This name can then be used in anchor definitions instead of coordinates.
-anon	spec	anywhere	block_start	function_declarator	Defines a block of data that must be passed back to the client software as-is.
-anonymous	spec	anywhere	block_start	function_declarator	Defines a block of data that must be passed back to the client software as-is.
-Ascender	spec	table_block_hhea	neutral	property	Specifies the ascender value for Apple platforms.
-Attach	spec	table_block_GDEF	neutral	property	Defines the contour-point index used for mark attachment on a particular glyph or glyph class.
-AxisValue	spec	anywhere	block_start	type	Defines a named value on a design axis.
-base	spec	anywhere	neutral	type	Designates a base glyph within a mark-to-base lookup rule.
-by	spec	anywhere	neutral	keyword	Specifies the output portion of a lookup rule.
-CapHeight	spec	table_block_OS_2	neutral	property	Specifies distance from the baseline to the approximate top of uppercase letters in font-design units. 
-CaretOffset	spec	table_block_hhea	neutral	property	Specifies the amount by which a slanted highlight on a glyph needs to be shifted to produce the best appearance.
-CaretSlopeRise	spec	table_block_vhea	neutral	property	Specifies the vertical component for the rise/run slope calculation of the caret.
-CaretSlopeRun	spec	table_block_vhea	neutral	property	Specifies the horizontal component for the rise/run slope calculation of the caret.
-Character	spec	feature_block_cvParameters	neutral	property	Specifies a target character within a character-variant lookup rule.
-CodePageRange	spec	table_block_OS_2	block_start	property	Specifies the code pages covered in the font cmap table for a given platform.
-contourpoint	spec	anywhere	neutral	type	Specifies a contour point index. Used only with TrueType-flavored OpenType fonts.
-cursive	spec	anywhere	neutral	type	Specifies that the current lookup rule is a cursive-attachment lookup.
-cvParameters	spec	anywhere	block_start	property	Specifies the parameters for the currently defined Character Variant lookup rule.
-Descender	spec	table_block_hhea	neutral	property	Specifies the descender value for Apple platforms.
-DesignAxis	spec	table_block_STAT	block_start	type	Defines a design axis.
-dflt	spec	anywhere	neutral	constant	Specifies the `dflt` language option for a feature or named lookup block.
-ElidableAxisValueName	spec	table_block_STAT	neutral	constant_flag	Indicates that the current axis value represents the “normal” value for the axis and may be omitted when composing name strings.
-ElidedFallbackName	spec	table_block_STAT	block_start	property	Specifies the name to use as a fallback if the composed subfamily name contains elidable values only.
-ElidedFallbackNameID	spec	table_block_STAT	neutral	property	Specifies the name ID to use as a fallback if the composed subfamily name contains elidable values only.
-enum	spec	anywhere	neutral	builtin	Specifies a class pair that should be omitted from any class kerning tables.
-enumerate	spec	anywhere	neutral	builtin	Specifies a class pair that should be omitted from any class kerning tables.
-exclude_dflt	spec	anywhere	neutral	builtin	Indicates that the `dflt` language is not included in the specified lookup behavior.
-excludeDFLT	spec	anywhere	neutral	builtin	(deprecated) Indicates that the `DFLT` language is not included in the specified lookup behavior.
-FamilyClass	spec	table_block_OS_2	neutral	property	Specifies the registered class and subclass of the design in the IBM font class system.
-FeatUILabelNameID	spec	feature_block_cvParameters	block_start	property	Defines a set of UI label names for a character-variant feature.
-FeatUITooltipTextNameID	spec	feature_block_cvParameters	block_start	property	Defines a set of tooltip text names for a character-variant feature.
-feature	spec	anywhere	block_start	function_declarator	Defines an OpenType feature.
-featureNames	spec	anywhere	block_start	property	Specifies the descriptive names for a Stylistic Set feature.
-flag	spec	feature_block_axisvalue	neutral	property	Specifies a flag within an AxisValue definition.
-FontRevision	spec	table_block_head	neutral	property	Specifies the current revision number of the font.
-from	spec	anywhere	neutral	keyword	Specifies the set-of-alternatives portion of a lookup rule.
-FSType	spec	table_block_OS_2	neutral	property	Specifies the font-embedding licensing rights for the font.
-GlyphClassDef	spec	table_block_GDEF	block_start	type	Defines the glyph classes for the font.
-HorizAxis.BaseScriptList	spec	table_block_BASE	block_start	property	Specifies a list of script records defining individual baseline tag values.
-HorizAxis.BaseTagList	spec	table_block_BASE	neutral	property	Specifies a list of baseline tags for a particular script.
-HorizAxis.MinMax 	spec	table_block_BASE	neutral	property	[Not implemented] Specifies a min-max record of baseline values for a particular script.
-ignore	spec	anywhere	neutral	builtin	Specifies an exception to a lookup rule.
-IgnoreBaseGlyphs	spec	anywhere	neutral	constant_flag	Indicates that the current lookup rule ignores any base glyphs.
-IgnoreLigatures	spec	anywhere	neutral	constant_flag	Indicates that the current lookup rule ignores any ligature glyphs.
-IgnoreMarks	spec	anywhere	neutral	constant_flag	Indicates that the current lookup rule ignores any mark glyphs.
-include	spec	anywhere	neutral	builtin	Include the designated external file.
-include_dflt	spec	anywhere	neutral	builtin	Indicates that the `dflt` language is included in the specified lookup behavior.
-includeDFLT	spec	anywhere	neutral	builtin	(deprecated) Indicates that the `DFLT` language is included in the specified lookup behavior.
-language	spec	anywhere	block_start	keyword	Specifies a language by its language tag.
-languagesystem	spec	anywhere	neutral	type	Specifies a language system by script and language tags.
-ligature	spec	anywhere	neutral	type	Specifies that the current lookup rule is a ligature lookup.
-ligComponent	spec	anywhere	neutral	keyword	Designates a ligature component glyph within a ligature lookup rule.
-LigatureCaretByDev	spec	table_block_GDEF	neutral	property	[Not implemented] Specifies the ligature caret value by device.
-LigatureCaretByIndex	spec	table_block_GDEF	neutral	property	Specifies the ligature caret value by contour-point index.
-LigatureCaretByPos	spec	table_block_GDEF	neutral	property	Specifies the ligature caret value by x and y coordinates.
-LineGap	spec	table_block_hhea	neutral	property	Specifies the typographic line gap for the font.
-location	spec	feature_block_axisvalue	neutral	property	Specifies a location on a design axis.
-locationDef	spec	anywhere	neutral	type	Defines a named location in variable design space
-lookup	spec	anywhere	block_start	function_declarator	Defines a group of feature rules of the same type, or specifies the lookup component of a GPOS contextual-positioning rule.
-lookupflag	spec	anywhere	neutral	keyword	Specifies an OpenType lookup flag for the current feature or named lookup.
-LowerOpSize	spec	table_block_OS_2	neutral	property	Specifies the lower value of the size range for which the font has been designed.
-mark	spec	anywhere	neutral	type	Specifies the mark-glyph component of a GPOS positioning rule.
-MarkAttachmentType	spec	anywhere	neutral	constant_flag	Specifies the user-defined class to which the current mark lookup belongs.
-markClass	spec	anywhere	neutral	type	Defines a mark-glyph class
-name	spec	anywhere	neutral	property	Specifies the descriptive name for a particular platform ID, script ID, and language ID combination.
-nameid	spec	anywhere	neutral	type	The integer identifier of a specific name record.
-NULL	spec	anywhere	neutral	constant	Specifies an undefined or unset value.
-OlderSiblingFontAttribute	spec	table_block_STAT	neutral	constant_flag	Indicates that the current axis value is applicable to other fonts in the same font family.
-Panose	spec	table_block_OS_2	neutral	property	Specifies the values for the font in the PANOSE descriptive characteristic system.
-parameters	spec	anywhere	block_start	property	Specifies the feature parameters for the currently defined language system. 
-ParamUILabelNameID	spec	feature_block_cvParameters	block_start	property	Defines a set of UI label names for a multiple-variant character-variant feature.
-pos	spec	anywhere	neutral	builtin	Defines a GPOS positioning rule.
-position	spec	anywhere	neutral	builtin	Defines a GPOS positioning rule.
-required	spec	anywhere	neutral	keyword	[Not implemented] Specifies that the current feature is required for the specified language system.
-reversesub	spec	anywhere	neutral	builtin	Specifies that the current lookup rule is a reverse chaining substitution lookup.
-RightToLeft	spec	anywhere	neutral	constant_flag	Indicates that the current lookup rule applies for right-to-left text.
-rsub	spec	anywhere	neutral	builtin	Specifies that the current lookup rule is a reverse chaining substitution lookup.
-SampleTextNameID	spec	feature_block_cvParameters	block_start	property	Defines a set of sample-text strings for a character-variant feature.
-script	spec	anywhere	block_start	keyword	Specifies a script by its script tag.
-sizemenuname	spec	feature_block_size	neutral	property	Specifies the menu name to be used for a group of fonts with the same subfamily identifier.
-StrikeoutSize	spec	table_block_OS_2	neutral	property	Specifies the thickness of the strikeout stroke in font design units.
-StrikeoutPosition	spec	table_block_OS_2	neutral	property	Specifies the position of the top of the strikeout stroke relative to the baseline in font design units.
-sub	spec	anywhere	neutral	builtin	Defines a GSUB substitution rule.
-SubscriptXSize	spec	table_block_OS_2	neutral	property	Specifies the recommended horizontal size in font design units for subscripts for the font.
-SubscriptXOffset	spec	table_block_OS_2	neutral	property	Specifies the recommended horizontal offset in font design units for subscripts for the font.
-SubscriptYSize	spec	table_block_OS_2	neutral	property	Specifies the recommended vertical size in font design units for subscripts for the font.
-SubScriptYOffset	spec	table_block_OS_2	neutral	property	Specifies the recommended vertical offset in font design units from the baseline for subscripts for the font.
-SuperscriptXSize	spec	table_block_OS_2	neutral	property	Specifies the recommended horizontal size in font design units for superscripts for the font.
-SuperscriptXOffset	spec	table_block_OS_2	neutral	property	Specifies the recommended horizontal offset in font design units for superscripts for the font.
-SuperscriptYSize	spec	table_block_OS_2	neutral	property	Specifies the recommended vertical size in font design units for superscripts for the font.
-SuperscriptYOffset	spec	table_block_OS_2	neutral	property	Specifies the recommended vertical offset in font design units from the baseline for superscripts for the font.
-substitute	spec	anywhere	neutral	builtin	Defines a GSUB substitution rule.
-subtable	spec	anywhere	neutral	builtin	Insert a subtable break after the preceding rule.
-table	spec	anywhere	block_start	keyword	Defines a set of override values for an OpenType table.
-TypoAscender	spec	table_block_OS_2	neutral	property	Specifies the typographic ascender for the font.
-TypoDescender	spec	table_block_OS_2	neutral	property	Specifies the typographic descender for the font.
-TypoLineGap	spec	table_block_OS_2	neutral	property	Specifies the typographic line gap for the font.
-UnicodeRange	spec	table_block_OS_2	block_start	property	Specifies the Unicode blocks or ranges encompassed by the font for platform 3 and encoding 1.
-UpperOpSize	spec	table_block_OS_2	neutral	property	Specifies the upper value of the size range for which the font has been designed.
-useExtension	spec	anywhere	neutral	builtin	Specifies that the lookup block is created with the GSUB or GPOS Extension type.
-UseMarkFilteringSet	spec	anywhere	neutral	constant_flag	Indicates that the current lookup is applicable only to mark glyphs in a particular mark-filtering set
-valueRecordDef	spec	anywhere	block_start	type	Used to define a named value record.
-Vendor	spec	table_block_OS_2	neutral	property	Specifies the four-character identifier for the vendor of the font.
-VertAdvanceY	spec	table_block_vtmx	neutral	property	Specifies the distance from the current glyph’s vertical origin to the y coordinate of the vertical origin of the next glyph in the run.
-VertAxis.BaseScriptList	spec	table_block_BASE	block_start	property	Specifies a list of script records defining individual baseline tag values.
-VertAxis.BaseTagList	spec	table_block_BASE	neutral	property	Specifies a list of baseline tags for a particular script.
-VertAxis.MinMax	spec	table_block_BASE	neutral	property	[Not implemented] Specifies a min-max record of baseline values for a particular script.
-VertOriginY	spec	table_block_vtmx	neutral	property	Specifies the sum of the glyph’s top side bearing and the top of the glyph’s bounding box.
-VertTypoAscender	spec	table_block_vhea	neutral	property	Specifies the vertical typographic ascender for the font.
-VertTypoDescender	spec	table_block_vhea	neutral	property	Specifies the vertical typographic descender for the font.
-VertTypoLineGap	spec	table_block_vhea	neutral	property	Specifies the vertical typographic gap for the font.
-WeightClass	spec	table_block_OS_2	neutral	property	Specifies the visual weight of the characters in the font.
-WidthClass	spec	table_block_OS_2	neutral	property	Indicates the relative change from normal width-to-height aspect ratio specified by the designer for characters in the font.
-winAscent	spec	table_block_OS_2	neutral	property	Specifies the Windows Ascender metric used to specify the height above the baseline for a clipping region.
-winDescent	spec	table_block_OS_2	neutral	property	Indicates the Windows Descender metric used to specify the vertical extent below the baseline for a clipping region. 
-XHeight	spec	table_block_OS_2	neutral	property	Specifies distance from the baseline and the approximate top of non-ascending lowercase letters measured in font-design units.
+token	source	context_required	category	block_indentation	definition
+# <<<	feapy	none	preprocessor_end	neutral	Designates the final line for the current block of FeaPy Python code.
+# >>>	feapy	none	preprocessor_start	neutral	Designates the starting line of a new block of FeaPy Python code.
+baseClass	feax	none	type	neutral	
+def	feax	none	function_declarator	neutral	?? declarator?
+do	feax	none	keyword	neutral	
+for	feax	none	keyword	neutral	
+forlet	feax	none	keyword	neutral	
+if	feax	none	keyword	neutral	
+ifclass	feax	none	keyword	block_start	
+ifinfo	feax	none	keyword	block_start	
+kernpairs	feax	none	builtin	neutral	
+let	feax	none	keyword	neutral	?? declarator?
+.	fez	none	punctuation	neutral	
+hasglyph	fez	none	builtin	neutral	
+&	fez	none	operator	neutral	
+$	fez	none	keyword	neutral	variable declarator
+^	fez	none	operator	neutral	
+U+	fez	none	operator	neutral	
+DefineClass	fez	none	type	neutral	
+DefineClassBinned	fez	none	type	neutral	
+Feature	fez	none	function_declarator	neutral	
+Routine	fez	none	function_declarator	neutral	
+Substitute	fez	none	function_declarator	neutral	
+ReverseSubstitute	fez	none	function_declarator	neutral	
+Position	fez	none	function_declarator	neutral	
+Chain	fez	none	function_declarator	neutral	
+Anchors	fez	none	function_declarator	neutral	
+If	fez	none	keyword	neutral	
+For	fez	none	keyword	neutral	
+Set	fez	none	keyword	neutral	
+Include	fez	none	builtin	neutral	
+IgnoreBases	fez	none	constant_flag	neutral	
+LoadPlugin	fez	none	builtin	neutral	
+Loadanchors	fez	none	builtin	neutral	
+FeatureName	fez	none	property	neutral	
+hasanchor	fez	none	builtin	neutral	
+ShowClass	fez	none	builtin	neutral	
+category	fez	none	property	neutral	
+width	fez	none	property	neutral	
+lsb	fez	none	property	neutral	
+rsb	fez	none	property	neutral	
+xMin	fez	none	property	neutral	
+xMax	fez	none	property	neutral	
+yMin	fez	none	property	neutral	
+yMax	fez	none	property	neutral	
+rise	fez	none	property	neutral	
+fullwidth	fez	none	property	neutral	
+# Automatic Code	fontra	none	preprocessor_singleton	neutral	
+#endif	glyphs	none	preprocessor_end	block_end	
+#ifdef	glyphs	none	preprocessor_start	block_start	
+$	glyphs	none	variable_name	neutral	
+${: }	glyphs	none	property	neutral	
+${}	glyphs	none	variable_name	neutral	
+AND	glyphs	none	keyword	neutral	
+case	glyphs	none	property	neutral	
+category	glyphs	none	property	neutral	
+class	glyphs	none	type	neutral	
+countOfLayers	glyphs	none	property	neutral	
+countOfUnicodes	glyphs	none	property	neutral	
+delete	glyphs	none	builtin	neutral	
+direction	glyphs	none	property	neutral	
+endswidth	glyphs	none	keyword	neutral	
+hasHints	glyphs	none	property	neutral	
+in	glyphs	none	keyword	neutral	
+isAligned	glyphs	none	property	neutral	
+isColorGlyph	glyphs	none	property	neutral	
+layer	glyphs	none	property	neutral	
+NOT	glyphs	none	keyword	neutral	
+note	glyphs	none	property	neutral	
+OR	glyphs	none	keyword	neutral	
+standalone	glyphs	none	keyword	neutral	
+tags	glyphs	none	property	neutral	
+VARIABLE	glyphs	none	property	neutral	
+@	spec	none	operator	neutral	Defines a named glyph class.
+'	spec	none	operator	neutral	
+#	spec	none	comment	neutral	
+\	spec	none	escape	neutral	
+;	spec	none	punctuation	neutral	
+“	spec	none	delimiter_string	neutral	
++	spec	none	operator	neutral	
+-	spec	none	operator	neutral	
+:	spec	none	punctuation	neutral	
+,	spec	none	punctuation	neutral	
+=	spec	none	operator	neutral	
+<	spec	none	punctuation_bracket	neutral	
+>	spec	none	punctuation_bracket	neutral	
+{	spec	none	punctuation_bracket	block_start	
+}	spec	none	punctuation_bracket	block_end	
+(	spec	none	punctuation_bracket	neutral	
+)	spec	none	punctuation_bracket	neutral	
+[	spec	none	punctuation_bracket	neutral	
+]	spec	none	punctuation_bracket	neutral	
+device	spec	none	keyword	neutral	Represents a single device table or a null offset to it.
+anchor	spec	none	keyword	neutral	Represents an anchor position.
+anchorDef	spec	none	type	block_start	Defines a named anchor. This name can then be used in anchor definitions instead of coordinates.
+anon	spec	none	function_declarator	block_start	Defines a block of data that must be passed back to the client software as-is.
+anonymous	spec	none	function_declarator	block_start	Defines a block of data that must be passed back to the client software as-is.
+Ascender	spec	block_table_hhea	property	neutral	Specifies the ascender value for Apple platforms.
+Attach	spec	block_table_GDEF	property	neutral	Defines the contour-point index used for mark attachment on a particular glyph or glyph class.
+AxisValue	spec	none	type	block_start	Defines a named value on a design axis.
+base	spec	none	type	neutral	Designates a base glyph within a mark-to-base lookup rule.
+by	spec	none	keyword	neutral	Specifies the output portion of a lookup rule.
+CapHeight	spec	block_table_OS_2	property	neutral	Specifies distance from the baseline to the approximate top of uppercase letters in font-design units. 
+CaretOffset	spec	block_table_hhea	property	neutral	Specifies the amount by which a slanted highlight on a glyph needs to be shifted to produce the best appearance.
+CaretSlopeRise	spec	block_table_vhea	property	neutral	Specifies the vertical component for the rise/run slope calculation of the caret.
+CaretSlopeRun	spec	block_table_vhea	property	neutral	Specifies the horizontal component for the rise/run slope calculation of the caret.
+Character	spec	block_feature_cvParameters	property	neutral	Specifies a target character within a character-variant lookup rule.
+CodePageRange	spec	block_table_OS_2	property	block_start	Specifies the code pages covered in the font cmap table for a given platform.
+contourpoint	spec	none	type	neutral	Specifies a contour point index. Used only with TrueType-flavored OpenType fonts.
+cursive	spec	none	type	neutral	Specifies that the current lookup rule is a cursive-attachment lookup.
+cvParameters	spec	none	property	block_start	Specifies the parameters for the currently defined Character Variant lookup rule.
+Descender	spec	block_table_hhea	property	neutral	Specifies the descender value for Apple platforms.
+DesignAxis	spec	block_table_STAT	type	block_start	Defines a design axis.
+dflt	spec	none	constant	neutral	Specifies the `dflt` language option for a feature or named lookup block.
+ElidableAxisValueName	spec	block_table_STAT	constant_flag	neutral	Indicates that the current axis value represents the “normal” value for the axis and may be omitted when composing name strings.
+ElidedFallbackName	spec	block_table_STAT	property	block_start	Specifies the name to use as a fallback if the composed subfamily name contains elidable values only.
+ElidedFallbackNameID	spec	block_table_STAT	property	neutral	Specifies the name ID to use as a fallback if the composed subfamily name contains elidable values only.
+enum	spec	none	builtin	neutral	Specifies a class pair that should be omitted from any class kerning tables.
+enumerate	spec	none	builtin	neutral	Specifies a class pair that should be omitted from any class kerning tables.
+exclude_dflt	spec	none	builtin	neutral	Indicates that the `dflt` language is not included in the specified lookup behavior.
+excludeDFLT	spec	none	builtin	neutral	(deprecated) Indicates that the `DFLT` language is not included in the specified lookup behavior.
+FamilyClass	spec	block_table_OS_2	property	neutral	Specifies the registered class and subclass of the design in the IBM font class system.
+FeatUILabelNameID	spec	block_feature_cvParameters	property	block_start	Defines a set of UI label names for a character-variant feature.
+FeatUITooltipTextNameID	spec	block_feature_cvParameters	property	block_start	Defines a set of tooltip text names for a character-variant feature.
+feature	spec	none	function_declarator	block_start	Defines an OpenType feature.
+featureNames	spec	none	property	block_start	Specifies the descriptive names for a Stylistic Set feature.
+flag	spec	block_feature_axisvalue	property	neutral	Specifies a flag within an AxisValue definition.
+FontRevision	spec	block_table_head	property	neutral	Specifies the current revision number of the font.
+from	spec	none	keyword	neutral	Specifies the set-of-alternatives portion of a lookup rule.
+FSType	spec	block_table_OS_2	property	neutral	Specifies the font-embedding licensing rights for the font.
+GlyphClassDef	spec	block_table_GDEF	type	block_start	Defines the glyph classes for the font.
+HorizAxis.BaseScriptList	spec	block_table_BASE	property	block_start	Specifies a list of script records defining individual baseline tag values.
+HorizAxis.BaseTagList	spec	block_table_BASE	property	neutral	Specifies a list of baseline tags for a particular script.
+HorizAxis.MinMax 	spec	block_table_BASE	property	neutral	[Not implemented] Specifies a min-max record of baseline values for a particular script.
+ignore	spec	none	builtin	neutral	Specifies an exception to a lookup rule.
+IgnoreBaseGlyphs	spec	none	constant_flag	neutral	Indicates that the current lookup rule ignores any base glyphs.
+IgnoreLigatures	spec	none	constant_flag	neutral	Indicates that the current lookup rule ignores any ligature glyphs.
+IgnoreMarks	spec	none	constant_flag	neutral	Indicates that the current lookup rule ignores any mark glyphs.
+include	spec	none	builtin	neutral	Include the designated external file.
+include_dflt	spec	none	builtin	neutral	Indicates that the `dflt` language is included in the specified lookup behavior.
+includeDFLT	spec	none	builtin	neutral	(deprecated) Indicates that the `DFLT` language is included in the specified lookup behavior.
+language	spec	none	keyword	block_start	Specifies a language by its language tag.
+languagesystem	spec	none	type	neutral	Specifies a language system by script and language tags.
+ligature	spec	none	type	neutral	Specifies that the current lookup rule is a ligature lookup.
+ligComponent	spec	none	keyword	neutral	Designates a ligature component glyph within a ligature lookup rule.
+LigatureCaretByDev	spec	block_table_GDEF	property	neutral	[Not implemented] Specifies the ligature caret value by device.
+LigatureCaretByIndex	spec	block_table_GDEF	property	neutral	Specifies the ligature caret value by contour-point index.
+LigatureCaretByPos	spec	block_table_GDEF	property	neutral	Specifies the ligature caret value by x and y coordinates.
+LineGap	spec	block_table_hhea	property	neutral	Specifies the typographic line gap for Apple platforms.
+location	spec	block_feature_axisvalue	property	neutral	Specifies a location on a design axis.
+locationDef	spec	none	type	neutral	Defines a named location in variable design space
+lookup	spec	none	function_declarator	block_start	Defines a group of feature rules of the same type, or specifies the lookup component of a GPOS contextual-positioning rule.
+lookupflag	spec	none	keyword	neutral	Specifies an OpenType lookup flag for the current feature or named lookup.
+LowerOpSize	spec	block_table_OS_2	property	neutral	Specifies the lower value of the size range for which the font has been designed.
+mark	spec	none	type	neutral	Specifies the mark-glyph component of a GPOS positioning rule.
+MarkAttachmentType	spec	none	constant_flag	neutral	Specifies the user-defined class to which the current mark lookup belongs.
+markClass	spec	none	type	neutral	Defines a mark-glyph class
+name	spec	none	property	neutral	Specifies the descriptive name for a particular platform ID, script ID, and language ID combination.
+nameid	spec	none	type	neutral	The integer identifier of a specific name record.
+NULL	spec	none	constant	neutral	Specifies an undefined or unset value.
+OlderSiblingFontAttribute	spec	block_table_STAT	constant_flag	neutral	Indicates that the current axis value is applicable to other fonts in the same font family.
+Panose	spec	block_table_OS_2	property	neutral	Specifies the values for the font in the PANOSE descriptive characteristic system.
+parameters	spec	none	property	block_start	Specifies the feature parameters for the currently defined language system. 
+ParamUILabelNameID	spec	block_feature_cvParameters	property	block_start	Defines a set of UI label names for a multiple-variant character-variant feature.
+pos	spec	none	builtin	neutral	Defines a GPOS positioning rule.
+position	spec	none	builtin	neutral	Defines a GPOS positioning rule.
+required	spec	none	keyword	neutral	[Not implemented] Specifies that the current feature is required for the specified language system.
+reversesub	spec	none	builtin	neutral	Specifies that the current lookup rule is a reverse chaining substitution lookup.
+RightToLeft	spec	none	constant_flag	neutral	Indicates that the current lookup rule applies for right-to-left text.
+rsub	spec	none	builtin	neutral	Specifies that the current lookup rule is a reverse chaining substitution lookup.
+SampleTextNameID	spec	block_feature_cvParameters	property	block_start	Defines a set of sample-text strings for a character-variant feature.
+script	spec	none	keyword	block_start	Specifies a script by its script tag.
+sizemenuname	spec	block_feature_size	property	neutral	Specifies the menu name to be used for a group of fonts with the same subfamily identifier.
+StrikeoutSize	spec	block_table_OS_2	property	neutral	Specifies the thickness of the strikeout stroke in font design units.
+StrikeoutPosition	spec	block_table_OS_2	property	neutral	Specifies the position of the top of the strikeout stroke relative to the baseline in font design units.
+sub	spec	none	builtin	neutral	Defines a GSUB substitution rule.
+SubscriptXSize	spec	block_table_OS_2	property	neutral	Specifies the recommended horizontal size in font design units for subscripts for the font.
+SubscriptXOffset	spec	block_table_OS_2	property	neutral	Specifies the recommended horizontal offset in font design units for subscripts for the font.
+SubscriptYSize	spec	block_table_OS_2	property	neutral	Specifies the recommended vertical size in font design units for subscripts for the font.
+SubScriptYOffset	spec	block_table_OS_2	property	neutral	Specifies the recommended vertical offset in font design units from the baseline for subscripts for the font.
+SuperscriptXSize	spec	block_table_OS_2	property	neutral	Specifies the recommended horizontal size in font design units for superscripts for the font.
+SuperscriptXOffset	spec	block_table_OS_2	property	neutral	Specifies the recommended horizontal offset in font design units for superscripts for the font.
+SuperscriptYSize	spec	block_table_OS_2	property	neutral	Specifies the recommended vertical size in font design units for superscripts for the font.
+SuperscriptYOffset	spec	block_table_OS_2	property	neutral	Specifies the recommended vertical offset in font design units from the baseline for superscripts for the font.
+substitute	spec	none	builtin	neutral	Defines a GSUB substitution rule.
+subtable	spec	none	builtin	neutral	Insert a subtable break after the preceding rule.
+table	spec	none	keyword	block_start	Defines a set of override values for an OpenType table.
+TypoAscender	spec	block_table_OS_2	property	neutral	Specifies the typographic ascender for the font.
+TypoDescender	spec	block_table_OS_2	property	neutral	Specifies the typographic descender for the font.
+TypoLineGap	spec	block_table_OS_2	property	neutral	Specifies the typographic line gap for the font.
+UnicodeRange	spec	block_table_OS_2	property	block_start	Specifies the Unicode blocks or ranges encompassed by the font for platform 3 and encoding 1.
+UpperOpSize	spec	block_table_OS_2	property	neutral	Specifies the upper value of the size range for which the font has been designed.
+useExtension	spec	none	builtin	neutral	Specifies that the lookup block is created with the GSUB or GPOS Extension type.
+UseMarkFilteringSet	spec	none	constant_flag	neutral	Indicates that the current lookup is applicable only to mark glyphs in a particular mark-filtering set
+valueRecordDef	spec	none	type	block_start	Used to define a named value record.
+Vendor	spec	block_table_OS_2	property	neutral	Specifies the four-character identifier for the vendor of the font.
+VertAdvanceY	spec	block_table_vtmx	property	neutral	Specifies the distance from the current glyph’s vertical origin to the y coordinate of the vertical origin of the next glyph in the run.
+VertAxis.BaseScriptList	spec	block_table_BASE	property	block_start	Specifies a list of script records defining individual baseline tag values.
+VertAxis.BaseTagList	spec	block_table_BASE	property	neutral	Specifies a list of baseline tags for a particular script.
+VertAxis.MinMax	spec	block_table_BASE	property	neutral	[Not implemented] Specifies a min-max record of baseline values for a particular script.
+VertOriginY	spec	block_table_vtmx	property	neutral	Specifies the sum of the glyph’s top side bearing and the top of the glyph’s bounding box.
+VertTypoAscender	spec	block_table_vhea	property	neutral	Specifies the vertical typographic ascender for the font.
+VertTypoDescender	spec	block_table_vhea	property	neutral	Specifies the vertical typographic descender for the font.
+VertTypoLineGap	spec	block_table_vhea	property	neutral	Specifies the vertical typographic gap for the font.
+WeightClass	spec	block_table_OS_2	property	neutral	Specifies the visual weight of the characters in the font.
+WidthClass	spec	block_table_OS_2	property	neutral	Indicates the relative change from normal width-to-height aspect ratio specified by the designer for characters in the font.
+winAscent	spec	block_table_OS_2	property	neutral	Specifies the Windows Ascender metric used to specify the height above the baseline for a clipping region.
+winDescent	spec	block_table_OS_2	property	neutral	Indicates the Windows Descender metric used to specify the vertical extent below the baseline for a clipping region. 
+XHeight	spec	block_table_OS_2	property	neutral	Specifies distance from the baseline and the approximate top of non-ascending lowercase letters measured in font-design units.
