@@ -1,0 +1,1319 @@
+aalt	spec	feature	Access All Alternates	
+abvf	spec	feature	Above-Base Forms	
+abvm	spec	feature	Above-Base Mark Positioning	
+abvs	spec	feature	Above-Base Substitutions	
+afrc	spec	feature	Alternative Fractions	
+akhn	spec	feature	Akhands	
+apkn	spec	feature	Kerning For Alternate Proportional Widths	
+blwf	spec	feature	Below-Base Forms	
+blwm	spec	feature	Below-Base Mark Positioning	
+blws	spec	feature	Below-Base Substitutions	
+calt	spec	feature	Contextual Alternates	
+case	spec	feature	Case-Sensitive Forms	
+ccmp	spec	feature	Glyph Composition / Decomposition	
+cfar	spec	feature	Conjunct Form After Ro	
+chws	spec	feature	Contextual Half-Width Spacing	
+cjct	spec	feature	Conjunct Forms	
+clig	spec	feature	Contextual Ligatures	
+cpct	spec	feature	Centered Cjk Punctuation	
+cpsp	spec	feature	Capital Spacing	
+cswh	spec	feature	Contextual Swash	
+curs	spec	feature	Cursive Positioning	
+cv01	spec	feature	Character Variant 1	
+cv02	spec	feature	Character Variant 2	
+cv03	spec	feature	Character Variant 3	
+cv04	spec	feature	Character Variant 4	
+cv05	spec	feature	Character Variant 5	
+cv06	spec	feature	Character Variant 6	
+cv07	spec	feature	Character Variant 7	
+cv08	spec	feature	Character Variant 8	
+cv09	spec	feature	Character Variant 9	
+cv10	spec	feature	Character Variant 10	
+cv11	spec	feature	Character Variant 11	
+cv12	spec	feature	Character Variant 12	
+cv13	spec	feature	Character Variant 13	
+cv14	spec	feature	Character Variant 14	
+cv15	spec	feature	Character Variant 15	
+cv16	spec	feature	Character Variant 16	
+cv17	spec	feature	Character Variant 17	
+cv18	spec	feature	Character Variant 18	
+cv19	spec	feature	Character Variant 19	
+cv20	spec	feature	Character Variant 20	
+cv21	spec	feature	Character Variant 21	
+cv22	spec	feature	Character Variant 22	
+cv23	spec	feature	Character Variant 23	
+cv24	spec	feature	Character Variant 24	
+cv25	spec	feature	Character Variant 25	
+cv26	spec	feature	Character Variant 26	
+cv27	spec	feature	Character Variant 27	
+cv28	spec	feature	Character Variant 28	
+cv29	spec	feature	Character Variant 29	
+cv30	spec	feature	Character Variant 30	
+cv31	spec	feature	Character Variant 31	
+cv32	spec	feature	Character Variant 32	
+cv33	spec	feature	Character Variant 33	
+cv34	spec	feature	Character Variant 34	
+cv35	spec	feature	Character Variant 35	
+cv36	spec	feature	Character Variant 36	
+cv37	spec	feature	Character Variant 37	
+cv38	spec	feature	Character Variant 38	
+cv39	spec	feature	Character Variant 39	
+cv40	spec	feature	Character Variant 40	
+cv41	spec	feature	Character Variant 41	
+cv42	spec	feature	Character Variant 42	
+cv43	spec	feature	Character Variant 43	
+cv44	spec	feature	Character Variant 44	
+cv45	spec	feature	Character Variant 45	
+cv46	spec	feature	Character Variant 46	
+cv47	spec	feature	Character Variant 47	
+cv48	spec	feature	Character Variant 48	
+cv49	spec	feature	Character Variant 49	
+cv50	spec	feature	Character Variant 50	
+cv51	spec	feature	Character Variant 51	
+cv52	spec	feature	Character Variant 52	
+cv53	spec	feature	Character Variant 53	
+cv54	spec	feature	Character Variant 54	
+cv55	spec	feature	Character Variant 55	
+cv56	spec	feature	Character Variant 56	
+cv57	spec	feature	Character Variant 57	
+cv58	spec	feature	Character Variant 58	
+cv59	spec	feature	Character Variant 59	
+cv60	spec	feature	Character Variant 60	
+cv61	spec	feature	Character Variant 61	
+cv62	spec	feature	Character Variant 62	
+cv63	spec	feature	Character Variant 63	
+cv64	spec	feature	Character Variant 64	
+cv65	spec	feature	Character Variant 65	
+cv66	spec	feature	Character Variant 66	
+cv67	spec	feature	Character Variant 67	
+cv68	spec	feature	Character Variant 68	
+cv69	spec	feature	Character Variant 69	
+cv70	spec	feature	Character Variant 70	
+cv71	spec	feature	Character Variant 71	
+cv72	spec	feature	Character Variant 72	
+cv73	spec	feature	Character Variant 73	
+cv74	spec	feature	Character Variant 74	
+cv75	spec	feature	Character Variant 75	
+cv76	spec	feature	Character Variant 76	
+cv77	spec	feature	Character Variant 77	
+cv78	spec	feature	Character Variant 78	
+cv79	spec	feature	Character Variant 79	
+cv80	spec	feature	Character Variant 80	
+cv81	spec	feature	Character Variant 81	
+cv82	spec	feature	Character Variant 82	
+cv83	spec	feature	Character Variant 83	
+cv84	spec	feature	Character Variant 84	
+cv85	spec	feature	Character Variant 85	
+cv86	spec	feature	Character Variant 86	
+cv87	spec	feature	Character Variant 87	
+cv88	spec	feature	Character Variant 88	
+cv89	spec	feature	Character Variant 89	
+cv90	spec	feature	Character Variant 90	
+cv91	spec	feature	Character Variant 91	
+cv92	spec	feature	Character Variant 92	
+cv93	spec	feature	Character Variant 93	
+cv94	spec	feature	Character Variant 94	
+cv95	spec	feature	Character Variant 95	
+cv96	spec	feature	Character Variant 96	
+cv97	spec	feature	Character Variant 97	
+cv98	spec	feature	Character Variant 98	
+cv99	spec	feature	Character Variant 99	
+c2pc	spec	feature	Petite Capitals From Capitals	
+c2sc	spec	feature	Small Capitals From Capitals	
+dist	spec	feature	Distances	
+dlig	spec	feature	Discretionary Ligatures	
+dnom	spec	feature	Denominators	
+dtls	spec	feature	Dotless Forms	
+expt	spec	feature	Expert Forms	
+falt	spec	feature	Final Glyph On Line Alternates	
+fin2	spec	feature	Terminal Forms #2	
+fin3	spec	feature	Terminal Forms #3	
+fina	spec	feature	Terminal Forms	
+flac	spec	feature	Flattened Accent Forms	
+frac	spec	feature	Fractions	
+fwid	spec	feature	Full Widths	
+half	spec	feature	Half Forms	
+haln	spec	feature	Halant Forms	
+halt	spec	feature	Alternate Half Widths	
+hist	spec	feature	Historical Forms	
+hkna	spec	feature	Horizontal Kana Alternates	
+hlig	spec	feature	Historical Ligatures	
+hngl	spec	feature	Hangul (Deprecated)	
+hojo	spec	feature	Hojo Kanji Forms (Jis X 0212-1990 Kanji Forms)	
+hwid	spec	feature	Half Widths	
+init	spec	feature	Initial Forms	
+isol	spec	feature	Isolated Forms	
+ital	spec	feature	Italics	
+jalt	spec	feature	Justification Alternates	
+jp78	spec	feature	Jis78 Forms	
+jp83	spec	feature	Jis83 Forms	
+jp90	spec	feature	Jis90 Forms	
+jp04	spec	feature	Jis2004 Forms	
+kern	spec	feature	Kerning	
+lfbd	spec	feature	Left Bounds	
+liga	spec	feature	Standard Ligatures	
+ljmo	spec	feature	Leading Jamo Forms	
+lnum	spec	feature	Lining Figures	
+locl	spec	feature	Localized Forms	
+ltra	spec	feature	Left-To-Right Alternates	
+ltrm	spec	feature	Left-To-Right Mirrored Forms	
+mark	spec	feature	Mark Positioning	
+med2	spec	feature	Medial Forms #2	
+medi	spec	feature	Medial Forms	
+mgrk	spec	feature	Mathematical Greek	
+mkmk	spec	feature	Mark To Mark Positioning	
+mset	spec	feature	Mark Positioning Via Substitution	
+nalt	spec	feature	Alternate Annotation Forms	
+nlck	spec	feature	Nlc Kanji Forms	
+nukt	spec	feature	Nukta Forms	
+numr	spec	feature	Numerators	
+onum	spec	feature	Oldstyle Figures	
+opbd	spec	feature	Optical Bounds (Deprecated)	
+ordn	spec	feature	Ordinals	
+ornm	spec	feature	Ornaments	
+palt	spec	feature	Proportional Alternate Widths	
+pcap	spec	feature	Petite Capitals	
+pkna	spec	feature	Proportional Kana	
+pnum	spec	feature	Proportional Figures	
+pref	spec	feature	Pre-Base Forms	
+pres	spec	feature	Pre-Base Substitutions	
+pstf	spec	feature	Post-Base Forms	
+psts	spec	feature	Post-Base Substitutions	
+pwid	spec	feature	Proportional Widths	
+qwid	spec	feature	Quarter Widths	
+rand	spec	feature	Randomize	
+rclt	spec	feature	Required Contextual Alternates	
+rkrf	spec	feature	Rakar Forms	
+rlig	spec	feature	Required Ligatures	
+rphf	spec	feature	Reph Forms	
+rtbd	spec	feature	Right Bounds	
+rtla	spec	feature	Right-To-Left Alternates	
+rtlm	spec	feature	Right-To-Left Mirrored Forms	
+ruby	spec	feature	Ruby Notation Forms	
+rvrn	spec	feature	Required Variation Alternates	
+salt	spec	feature	Stylistic Alternates	
+sinf	spec	feature	Scientific Inferiors	
+size	spec	feature	Optical Size	
+smcp	spec	feature	Small Capitals	
+smpl	spec	feature	Simplified Forms	
+ss01	spec	feature	Stylistic Set 1	
+ss02	spec	feature	Stylistic Set 2	
+ss03	spec	feature	Stylistic Set 3	
+ss04	spec	feature	Stylistic Set 4	
+ss05	spec	feature	Stylistic Set 5	
+ss06	spec	feature	Stylistic Set 6	
+ss07	spec	feature	Stylistic Set 7	
+ss08	spec	feature	Stylistic Set 8	
+ss09	spec	feature	Stylistic Set 9	
+ss10	spec	feature	Stylistic Set 10	
+ss11	spec	feature	Stylistic Set 11	
+ss12	spec	feature	Stylistic Set 12	
+ss13	spec	feature	Stylistic Set 13	
+ss14	spec	feature	Stylistic Set 14	
+ss15	spec	feature	Stylistic Set 15	
+ss16	spec	feature	Stylistic Set 16	
+ss17	spec	feature	Stylistic Set 17	
+ss18	spec	feature	Stylistic Set 18	
+ss19	spec	feature	Stylistic Set 19	
+ss20	spec	feature	Stylistic Set 20	
+ssty	spec	feature	Math Script-Style Alternates	
+stch	spec	feature	Stretching Glyph Decomposition	
+subs	spec	feature	Subscript	
+sups	spec	feature	Superscript	
+swsh	spec	feature	Swash	
+titl	spec	feature	Titling	
+tjmo	spec	feature	Trailing Jamo Forms	
+tnam	spec	feature	Traditional Name Forms	
+tnum	spec	feature	Tabular Figures	
+trad	spec	feature	Traditional Forms	
+twid	spec	feature	Third Widths	
+unic	spec	feature	Unicase	
+valt	spec	feature	Alternate Vertical Metrics	
+vapk	spec	feature	Kerning For Alternate Proportional Vertical Metrics	
+vatu	spec	feature	Vattu Variants	
+vchw	spec	feature	Vertical Contextual Half-Width Spacing	
+vert	spec	feature	Vertical Alternates	
+vhal	spec	feature	Alternate Vertical Half Metrics	
+vjmo	spec	feature	Vowel Jamo Forms	
+vkna	spec	feature	Vertical Kana Alternates	
+vkrn	spec	feature	Vertical Kerning	
+vpal	spec	feature	Proportional Alternate Vertical Metrics	
+vrt2	spec	feature	Vertical Alternates And Rotation	
+vrtr	spec	feature	Vertical Alternates For Rotation	
+zero	spec	feature	Slashed Zero	
+ REQ	fontforge	feature	Required FontForge internal	
+ITLC	fontforge	feature	(deprecated) TeX math italic correction	
+TCHL	fontforge	feature	(deprecated) TeX math charlist	
+TEXL	fontforge	feature	(deprecated) TeX math extension list	
+Harf	harfbuzz	feature	Required HarfBuzz private-use	
+Buzz	harfbuzz	feature	Required HarfBuzz private-use	
+HARF	harfbuzz	feature	Discretionary HarfBuzz private-use 	
+BUZZ	harfbuzz	feature	Discretionary HarfBuzz private-use	
+zz01	volt	feature	VOLT internal usage 1	
+zz02	volt	feature	VOLT internal usage 2	
+zz03	volt	feature	VOLT internal usage 3	
+zz04	volt	feature	VOLT internal usage 4	
+zz05	volt	feature	VOLT internal usage 5	
+zz06	volt	feature	VOLT internal usage 6	
+zz07	volt	feature	VOLT internal usage 7	
+zz08	volt	feature	VOLT internal usage 8	
+zz09	volt	feature	VOLT internal usage 9	
+zz10	volt	feature	VOLT internal usage 10	
+zz11	volt	feature	VOLT internal usage 11	
+zz12	volt	feature	VOLT internal usage 12	
+zz13	volt	feature	VOLT internal usage 13	
+zz14	volt	feature	VOLT internal usage 14	
+zz15	volt	feature	VOLT internal usage 15	
+zz16	volt	feature	VOLT internal usage 16	
+zz17	volt	feature	VOLT internal usage 17	
+zz18	volt	feature	VOLT internal usage 18	
+zz19	volt	feature	VOLT internal usage 19	
+zz20	volt	feature	VOLT internal usage 20	
+zz21	volt	feature	VOLT internal usage 21	
+zz22	volt	feature	VOLT internal usage 22	
+zz23	volt	feature	VOLT internal usage 23	
+zz24	volt	feature	VOLT internal usage 24	
+zz25	volt	feature	VOLT internal usage 25	
+zz26	volt	feature	VOLT internal usage 26	
+zz27	volt	feature	VOLT internal usage 27	
+zz28	volt	feature	VOLT internal usage 28	
+zz29	volt	feature	VOLT internal usage 29	
+zz30	volt	feature	VOLT internal usage 30	
+zz31	volt	feature	VOLT internal usage 31	
+zz32	volt	feature	VOLT internal usage 32	
+zz33	volt	feature	VOLT internal usage 33	
+zz34	volt	feature	VOLT internal usage 34	
+zz35	volt	feature	VOLT internal usage 35	
+zz36	volt	feature	VOLT internal usage 36	
+zz37	volt	feature	VOLT internal usage 37	
+zz38	volt	feature	VOLT internal usage 38	
+zz39	volt	feature	VOLT internal usage 39	
+zz40	volt	feature	VOLT internal usage 40	
+zz41	volt	feature	VOLT internal usage 41	
+zz42	volt	feature	VOLT internal usage 42	
+zz43	volt	feature	VOLT internal usage 43	
+zz44	volt	feature	VOLT internal usage 44	
+zz45	volt	feature	VOLT internal usage 45	
+zz46	volt	feature	VOLT internal usage 46	
+zz47	volt	feature	VOLT internal usage 47	
+zz48	volt	feature	VOLT internal usage 48	
+zz49	volt	feature	VOLT internal usage 49	
+zz50	volt	feature	VOLT internal usage 50	
+zz51	volt	feature	VOLT internal usage 51	
+zz52	volt	feature	VOLT internal usage 52	
+zz53	volt	feature	VOLT internal usage 53	
+zz54	volt	feature	VOLT internal usage 54	
+zz55	volt	feature	VOLT internal usage 55	
+zz56	volt	feature	VOLT internal usage 56	
+zz57	volt	feature	VOLT internal usage 57	
+zz58	volt	feature	VOLT internal usage 58	
+zz59	volt	feature	VOLT internal usage 59	
+zz60	volt	feature	VOLT internal usage 60	
+zz61	volt	feature	VOLT internal usage 61	
+zz62	volt	feature	VOLT internal usage 62	
+zz63	volt	feature	VOLT internal usage 63	
+zz64	volt	feature	VOLT internal usage 64	
+zz65	volt	feature	VOLT internal usage 65	
+zz66	volt	feature	VOLT internal usage 66	
+zz67	volt	feature	VOLT internal usage 67	
+zz68	volt	feature	VOLT internal usage 68	
+zz69	volt	feature	VOLT internal usage 69	
+zz70	volt	feature	VOLT internal usage 70	
+zz71	volt	feature	VOLT internal usage 71	
+zz72	volt	feature	VOLT internal usage 72	
+zz73	volt	feature	VOLT internal usage 73	
+zz74	volt	feature	VOLT internal usage 74	
+zz75	volt	feature	VOLT internal usage 75	
+zz76	volt	feature	VOLT internal usage 76	
+zz77	volt	feature	VOLT internal usage 77	
+zz78	volt	feature	VOLT internal usage 78	
+zz79	volt	feature	VOLT internal usage 79	
+zz80	volt	feature	VOLT internal usage 80	
+zz81	volt	feature	VOLT internal usage 81	
+zz82	volt	feature	VOLT internal usage 82	
+zz83	volt	feature	VOLT internal usage 83	
+zz84	volt	feature	VOLT internal usage 84	
+zz85	volt	feature	VOLT internal usage 85	
+zz86	volt	feature	VOLT internal usage 86	
+zz87	volt	feature	VOLT internal usage 87	
+zz88	volt	feature	VOLT internal usage 88	
+zz89	volt	feature	VOLT internal usage 89	
+zz90	volt	feature	VOLT internal usage 90	
+zz91	volt	feature	VOLT internal usage 91	
+zz92	volt	feature	VOLT internal usage 92	
+zz93	volt	feature	VOLT internal usage 93	
+zz94	volt	feature	VOLT internal usage 94	
+zz95	volt	feature	VOLT internal usage 95	
+zz96	volt	feature	VOLT internal usage 96	
+zz97	volt	feature	VOLT internal usage 97	
+zz98	volt	feature	VOLT internal usage 98	
+zz99	volt	feature	VOLT internal usage 99	
+hang	spec	baseline	Hanging Baseline	
+icfb	spec	baseline	Ideographic Character Face Bottom Edge	
+icft	spec	baseline	Ideographic Character Face Top Edge	
+ideo	spec	baseline	Ideographic Em-Box Face Bottom Edge	
+idtp	spec	baseline	Ideographic Em-Box Face Top Edge	
+math	spec	baseline	Mathematical Formula Centerline	
+romn	spec	baseline	Alphabetic Script Baseline	
+ital	spec	axis	Italic	
+opsz	spec	axis	Optical Size	
+slnt	spec	axis	Slant	
+wdth	spec	axis	Width	
+wght	spec	axis	Weight	
+ARRR	google	axis	AR Retinal Resolution	
+YTAS	google	axis	Ascender Height	
+BLED	google	axis	Bleed	
+BNCE	google	axis	Bounce	
+CASL	google	axis	Casual	
+CTRS	google	axis	Contrast	
+XTRA	google	axis	Counter Width	
+CRSV	google	axis	Cursive	
+YTDE	google	axis	Descender Depth	
+EHLT	google	axis	Edge Highlight	
+ELXP	google	axis	Element Expansion	
+ELGR	google	axis	Element Grid	
+ELSH	google	axis	ELement Shape	
+EDPT	google	axis	Extrusion Depth	
+YTFI	google	axis	Figure Height	
+FILL	google	axis	Fill	
+FLAR	google	axis	Flare	
+GRAD	google	axis	Grade	
+XELA	google	axis	Horizontal Element Alignment	
+XPN1	google	axis	Horizontal Position of Paint 1	
+XPN2	google	axis	Horizontal Position of Paint 2	
+HEXP	google	axis	Hyper Expansion	
+INFM	google	axis	Informality	
+YTLC	google	axis	Lowercase Height	
+MONO	google	axis	Monospace	
+MORF	google	axis	Morph	
+XROT	google	axis	Rotation in X	
+YROT	google	axis	Rotation in Y	
+ZROT	google	axis	Rotation in Z	
+ROND	google	axis	Roundness	
+SCAN	google	axis	Scanlines	
+SHLN	google	axis	Shadow Length	
+SHRP	google	axis	Sharpness	
+SZP1	google	axis	Size of Paint 1	
+SZP2	google	axis	Size of Paint 2	
+SOFT	google	axis	Softness	
+SPAC	google	axis	Spacing	
+XOPQ	google	axis	Thick Stroke	
+YOPQ	google	axis	Thin Stroke	
+YTUC	google	axis	Uppercase Height	
+YELA	google	axis	Vertical Element Alignment	
+YEXT	google	axis	Vertical Extension	
+YPN1	google	axis	Vertical Position of Paint 1	
+YPN2	google	axis	Vertical Position of Paint 2	
+VOLM	google	axis	Volume	
+WONK	google	axis	Wonky	
+YEAR	google	axis	Year	
+hasc	spec	value	Horizontal Ascender	
+hdsc	spec	value	Horizontal Descender	
+hlgp	spec	value	Horizontal Line Gap	
+hcla	spec	value	Horizontal Clipping Ascent	
+hcld	spec	value	Horizontal Clipping Descent	
+vasc	spec	value	Vertical Ascender	
+vdsc	spec	value	Vertical Descender	
+vlgp	spec	value	Vertical Line Gap	
+hcrs	spec	value	Horizontal Caret Rise	
+hcrn	spec	value	Horizontal Caret Run	
+hcof	spec	value	Horizontal Caret Offset	
+vcrs	spec	value	Vertical Caret Rise	
+vcrn	spec	value	Vertical Caret Run	
+vcof	spec	value	Vertical Caret Offset	
+xhgt	spec	value	x Height	
+cpht	spec	value	Cap Height	
+sbxs	spec	value	Subscript Em X Size	
+sbys	spec	value	Subscript Em Y Size	
+sbxo	spec	value	Subscript Em X Offset	
+sbyo	spec	value	Subscript Em Y Offset	
+spxs	spec	value	Superscript Em X Size	
+spys	spec	value	Superscript Em Y Size	
+spxo	spec	value	Superscript Em X Offset	
+spyo	spec	value	Superscript Em Y Offset	
+strs	spec	value	Strikeout Size	
+stro	spec	value	Strikeout Offset	
+unds	spec	value	Underline Size	
+undo	spec	value	Underline Offset	
+gsp0	spec	value	gaspRange[0]	
+gsp1	spec	value	gaspRange[1]	
+gsp2	spec	value	gaspRange[2]	
+gsp3	spec	value	gaspRange[3]	
+gsp4	spec	value	gaspRange[4]	
+gsp5	spec	value	gaspRange[5]	
+gsp6	spec	value	gaspRange[6]	
+gsp7	spec	value	gaspRange[7]	
+gsp8	spec	value	gaspRange[8]	
+gsp9	spec	value	gaspRange[9]	
+appl	spec	metadata	Reserved, used by Apple	
+bild	spec	metadata	Reserved, used by Apple	
+dlng	spec	metadata	Design Languages	
+slng	spec	metadata	Supported Languages	
+adlm	spec	script	Adlam	
+ahom	spec	script	Ahom	
+hluw	spec	script	Anatolian Hieroglyphs	
+arab	spec	script	Arabic	
+armn	spec	script	Armenian	
+avst	spec	script	Avestan	
+bali	spec	script	Balinese	
+bamu	spec	script	Bamum	
+bass	spec	script	Bassa Vah	
+batk	spec	script	Batak	
+beng	spec	script	Bangla	
+bng2	spec	script	Bangla v.2	
+berf	spec	script	Beria Erfe	
+bhks	spec	script	Bhaiksuki	
+bopo	spec	script	Bopomofo	
+brah	spec	script	Brahmi	
+brai	spec	script	Braille	
+bugi	spec	script	Buginese	
+buhd	spec	script	Buhid	
+byzm	spec	script	Byzantine Music	
+cans	spec	script	Canadian Syllabics	
+cari	spec	script	Carian	
+aghb	spec	script	Caucasian Albanian	
+cakm	spec	script	Chakma	
+cham	spec	script	Cham	
+cher	spec	script	Cherokee	
+chrs	spec	script	Chorasmian	
+hani	spec	script	CJK Ideographic	
+copt	spec	script	Coptic	
+cprt	spec	script	Cypriot Syllabary	
+cpmn	spec	script	Cypro-Minoan	
+cyrl	spec	script	Cyrillic	
+DFLT	spec	script	Default	
+dsrt	spec	script	Deseret	
+deva	spec	script	Devanagari	
+dev2	spec	script	Devanagari v.2	
+diak	spec	script	Dives Akuru	
+dogr	spec	script	Dogra	
+dupl	spec	script	Duployan	
+egyp	spec	script	Egyptian Hieroglyphs	
+elba	spec	script	Elbasan	
+elym	spec	script	Elymaic	
+ethi	spec	script	Ethiopic	
+gara	spec	script	Garay	
+geor	spec	script	Georgian	
+glag	spec	script	Glagolitic	
+goth	spec	script	Gothic	
+gran	spec	script	Grantha	
+grek	spec	script	Greek	
+gujr	spec	script	Gujarati	
+gjr2	spec	script	Gujarati v.2	
+gong	spec	script	Gunjala Gondi	
+guru	spec	script	Gurmukhi	
+gur2	spec	script	Gurmukhi v.2	
+gukh	spec	script	Gurung Khema	
+hang	spec	script	Hangul	
+jamo	spec	script	Hangul Jamo (deprecated in favor of 'hang')	
+rohg	spec	script	Hanifi Rohingya	
+hano	spec	script	Hanunoo	
+hatr	spec	script	Hatran	
+hebr	spec	script	Hebrew	
+kana	spec	script	Hiragana	
+armi	spec	script	Imperial Aramaic	
+phli	spec	script	Inscriptional Pahlavi	
+prti	spec	script	Inscriptional Parthian	
+java	spec	script	Javanese	
+kthi	spec	script	Kaithi	
+knda	spec	script	Kannada	
+knd2	spec	script	Kannada v.2	
+kana	spec	script	Katakana	
+kawi	spec	script	Kawi	
+kali	spec	script	Kayah Li	
+khar	spec	script	Kharosthi	
+kits	spec	script	Khitan Small Script	
+khmr	spec	script	Khmer	
+khoj	spec	script	Khojki	
+sind	spec	script	Khudawadi	
+krai	spec	script	Kirat Rai	
+lao 	spec	script	Lao	
+latn	spec	script	Latin	
+lepc	spec	script	Lepcha	
+limb	spec	script	Limbu	
+lina	spec	script	Linear A	
+linb	spec	script	Linear B	
+lisu	spec	script	Lisu (Fraser)	
+lyci	spec	script	Lycian	
+lydi	spec	script	Lydian	
+mahj	spec	script	Mahajani	
+maka	spec	script	Makasar	
+mlym	spec	script	Malayalam	
+mlm2	spec	script	Malayalam v.2	
+mand	spec	script	Mandaic, Mandaean	
+mani	spec	script	Manichaean	
+marc	spec	script	Marchen	
+gonm	spec	script	Masaram Gondi	
+math	spec	script	Mathematical text layout	
+medf	spec	script	Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)	
+mtei	spec	script	Meitei Mayek (Meithei, Meetei)	
+mend	spec	script	Mende Kikakui	
+merc	spec	script	Meroitic Cursive	
+mero	spec	script	Meroitic Hieroglyphs	
+plrd	spec	script	Miao	
+modi	spec	script	Modi	
+mong	spec	script	Mongolian	
+mroo	spec	script	Mro	
+mult	spec	script	Multani	
+musc	spec	script	Musical Symbols	
+mymr	spec	script	Myanmar	(deprecated in favor of 'mym2')
+mym2	spec	script	Myanmar v.2	
+nbat	spec	script	Nabataean	
+nagm	spec	script	Nag Mundari	
+nand	spec	script	Nandinagari	
+newa	spec	script	Newa	
+talu	spec	script	New Tai Lue	
+nko 	spec	script	N'Ko	
+nshu	spec	script	Nüshu	
+hmnp	spec	script	Nyiakeng Puachue Hmong	
+orya	spec	script	Odia	
+ory2	spec	script	Odia v.2	
+ogam	spec	script	Ogham	
+olck	spec	script	Ol Chiki	
+onao	spec	script	Ol Onal	
+ital	spec	script	Old Italic	
+hung	spec	script	Old Hungarian	
+narb	spec	script	Old North Arabian	
+perm	spec	script	Old Permic	
+xpeo	spec	script	Old Persian Cuneiform	
+sogo	spec	script	Old Sogdian	
+sarb	spec	script	Old South Arabian	
+orkh	spec	script	Old Turkic, Orkhon Runic	
+ougr	spec	script	Old Uyghur	
+osge	spec	script	Osage	
+osma	spec	script	Osmanya	
+hmng	spec	script	Pahawh Hmong	
+palm	spec	script	Palmyrene	
+pauc	spec	script	Pau Cin Hau	
+phag	spec	script	Phags-pa	
+phnx	spec	script	Phoenician	
+phlp	spec	script	Psalter Pahlavi	
+rjng	spec	script	Rejang	
+runr	spec	script	Runic	
+samr	spec	script	Samaritan	
+saur	spec	script	Saurashtra	
+shrd	spec	script	Sharada	
+shaw	spec	script	Shavian	
+sidd	spec	script	Siddham	
+sidt	spec	script	Sidetic	
+sgnw	spec	script	Sign Writing	
+sinh	spec	script	Sinhala	
+sogd	spec	script	Sogdian	
+sora	spec	script	Sora Sompeng	
+soyo	spec	script	Soyombo	
+xsux	spec	script	Sumero-Akkadian Cuneiform	
+sund	spec	script	Sundanese	
+sunu	spec	script	Sunuwar	
+sylo	spec	script	Syloti Nagri	
+syrc	spec	script	Syriac	
+tglg	spec	script	Tagalog	
+tagb	spec	script	Tagbanwa	
+tale	spec	script	Tai Le	
+lana	spec	script	Tai Tham (Lanna)	
+tavt	spec	script	Tai Viet	
+tayo	spec	script	Tai Yo	
+takr	spec	script	Takri	
+taml	spec	script	Tamil	
+tml2	spec	script	Tamil v.2	
+tnsa	spec	script	Tangsa	
+tang	spec	script	Tangut	
+telu	spec	script	Telugu	
+tel2	spec	script	Telugu v.2	
+thaa	spec	script	Thaana	
+thai	spec	script	Thai	
+tibt	spec	script	Tibetan	
+tfng	spec	script	Tifinagh	
+tirh	spec	script	Tirhuta	
+todr	spec	script	Todhri	
+tols	spec	script	Tolong Siki	
+toto	spec	script	Toto	
+tutg	spec	script	Tulu-Tigalari	
+ugar	spec	script	Ugaritic Cuneiform	
+vai 	spec	script	Vai	
+vith	spec	script	Vithkuqi	
+wcho	spec	script	Wancho	
+wara	spec	script	Warang Citi	
+yezi	spec	script	Yezidi	
+yi  	spec	script	Yi (actual tag byte sequence is 0x79 0x69 0x20 0x20.)	
+zanb	spec	script	Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, Horizontal Square Script)	
+zz01	volt	script	VOLT internal usage	
+AAQ 	spec	language	Eastern Abenaki	
+ABA 	spec	language	Abaza	
+ABK 	spec	language	Abkhazian	
+ACH 	spec	language	Acholi	
+ACR 	spec	language	Achi	
+ACY 	spec	language	Cypriot Arabic	
+ADY 	spec	language	Adyghe	
+AFK 	spec	language	Afrikaans	
+AFR 	spec	language	Afar	
+AGW 	spec	language	Agaw	
+AIO 	spec	language	Aiton	
+AKA 	spec	language	Akan	
+AKB 	spec	language	Batak Angkola	
+ALS 	spec	language	Alsatian	
+ALT 	spec	language	Altai	
+AMH 	spec	language	Amharic	
+ANG 	spec	language	Anglo-Saxon	
+APPH	spec	language	Phonetic transcription—Americanist conventions	
+ARA 	spec	language	Arabic	
+ARG 	spec	language	Aragonese	
+ARI 	spec	language	Aari	
+ARK 	spec	language	Rakhine	
+ASM 	spec	language	Assamese	
+AST 	spec	language	Asturian	
+ATH 	spec	language	Athapaskan languages	
+ATS 	spec	language	Gros Ventre (Atsina)	
+AVN 	spec	language	Avatime	
+AVR 	spec	language	Avar	
+AWA 	spec	language	Awadhi	
+AYM 	spec	language	Aymara	
+AZB 	spec	language	Torki	
+AZE 	spec	language	Azerbaijani	
+BAD 	spec	language	Badaga	
+BAD0	spec	language	Banda	
+BAG 	spec	language	Baghelkhandi	
+BAL 	spec	language	Balkar	
+BAN 	spec	language	Balinese	
+BAR 	spec	language	Bavarian	
+BAU 	spec	language	Baulé	
+BBC 	spec	language	Batak Toba	
+BBR 	spec	language	Berber	
+BCH 	spec	language	Bench	
+BCR 	spec	language	Bible Cree	
+BDC 	spec	language	Emberá-Baudó	
+BDY 	spec	language	Bandjalang	
+BEL 	spec	language	Belarusian	
+BEM 	spec	language	Bemba	
+BEN 	spec	language	Bangla	
+BGC 	spec	language	Haryanvi	
+BGQ 	spec	language	Bagri	
+BGR 	spec	language	Bulgarian	
+BHI 	spec	language	Bhili	
+BHO 	spec	language	Bhojpuri	
+BIK 	spec	language	Bikol	
+BIL 	spec	language	Bilen	
+BIS 	spec	language	Bislama	
+BJJ 	spec	language	Kanauji	
+BKF 	spec	language	Blackfoot	
+BLI 	spec	language	Baluchi	
+BLK 	spec	language	Pa’o Karen	
+BLN 	spec	language	Balante	
+BLT 	spec	language	Balti	
+BMB 	spec	language	Bambara (Bamanankan)	
+BML 	spec	language	Bamileke	
+BOS 	spec	language	Bosnian	
+BPY 	spec	language	Bishnupriya Manipuri	
+BRE 	spec	language	Breton	
+BRH 	spec	language	Brahui	
+BRI 	spec	language	Braj Bhasha	
+BRM 	spec	language	Burmese	
+BRX 	spec	language	Bodo	
+BSH 	spec	language	Bashkir	
+BSK 	spec	language	Burushaski	
+BTD 	spec	language	Batak Dairi (Pakpak)	
+BTI 	spec	language	Beti	
+BTK 	spec	language	Batak languages	
+BTM 	spec	language	Batak Mandailing	
+BTS 	spec	language	Batak Simalungun	
+BTX 	spec	language	Batak Karo	
+BTZ 	spec	language	Batak Alas-Kluet	
+BUG 	spec	language	Bugis	
+BYV 	spec	language	Medumba	
+CAK 	spec	language	Kaqchikel	
+CAT 	spec	language	Catalan	
+CAY 	spec	language	Cayuga	
+CBG 	spec	language	Chimila	
+CBK 	spec	language	Zamboanga Chavacano	
+CCHN	spec	language	Chinantec	
+CEB 	spec	language	Cebuano	
+CGG 	spec	language	Chiga	
+CHA 	spec	language	Chamorro	
+CHE 	spec	language	Chechen	
+CHG 	spec	language	Chaha Gurage	
+CHH 	spec	language	Chattisgarhi	
+CHI 	spec	language	Chichewa (Chewa, Nyanja)	
+CHK 	spec	language	Chukchi	
+CHK0	spec	language	Chuukese	
+CHO 	spec	language	Choctaw	
+CHP 	spec	language	Chipewyan	
+CHR 	spec	language	Cherokee	
+CHU 	spec	language	Chuvash	
+CHY 	spec	language	Cheyenne	
+CJA 	spec	language	Western Cham	
+CJM 	spec	language	Eastern Cham	
+CMI 	spec	language	Emberá-Chamí	
+CMR 	spec	language	Comorian	
+COO 	spec	language	Comox	
+COP 	spec	language	Coptic	
+COR 	spec	language	Cornish	
+COS 	spec	language	Corsican	
+CPP 	spec	language	Creoles	
+CRE 	spec	language	Cree	
+CRR 	spec	language	Carrier	
+CRT 	spec	language	Crimean Tatar	
+CSB 	spec	language	Kashubian	
+CSL 	spec	language	Church Slavonic	
+CSY 	spec	language	Czech	
+CTG 	spec	language	Chittagonian	
+CTO 	spec	language	Emberá-Catío	
+CTT 	spec	language	Wayanad Chetti	
+CUK 	spec	language	San Blas Kuna	
+DAG 	spec	language	Dagbani	
+DAN 	spec	language	Danish	
+DAR 	spec	language	Dargwa	
+DAX 	spec	language	Dayi	
+DCR 	spec	language	Woods Cree	
+DEU 	spec	language	German	
+DGO 	spec	language	Dogri (individual language)	
+DGR 	spec	language	Dogri (macrolanguage)	
+DHG 	spec	language	Dhangu	
+DHV 	spec	language	(deprecated) Divehi (Dhivehi, Maldivian)	
+DIQ 	spec	language	Dimli	
+DIV 	spec	language	Divehi (Dhivehi, Maldivian)	
+DJR 	spec	language	Zarma	
+DJR0	spec	language	Djambarrpuyngu	
+DNG 	spec	language	Dangme	
+DNJ 	spec	language	Dan	
+DNK 	spec	language	Dinka	
+DRI 	spec	language	Dari	
+DUJ 	spec	language	Dhuwal	
+DUN 	spec	language	Dungan	
+DZN 	spec	language	Dzongkha	
+EBI 	spec	language	Ebira	
+ECR 	spec	language	Eastern Cree	
+EDO 	spec	language	Edo	
+EFI 	spec	language	Efik	
+ELL 	spec	language	Greek	
+EMK 	spec	language	Eastern Maninkakan	
+EMP 	spec	language	Northern Emberá	
+ENG 	spec	language	English	
+ERZ 	spec	language	Erzya	
+ESP 	spec	language	Spanish	
+ESU 	spec	language	Central Yupik	
+ETI 	spec	language	Estonian	
+EUQ 	spec	language	Basque	
+EVK 	spec	language	Evenki	
+EVN 	spec	language	Even	
+EWE 	spec	language	Ewe	
+FAN 	spec	language	French Antillean	
+FAN0	spec	language	Fang	
+FAR 	spec	language	Persian	
+FAT 	spec	language	Fanti	
+FIN 	spec	language	Finnish	
+FJI 	spec	language	Fijian	
+FLE 	spec	language	Dutch (Flemish)	
+FMP 	spec	language	Fe’fe’	
+FNE 	spec	language	Forest Enets	
+FON 	spec	language	Fon	
+FOS 	spec	language	Faroese	
+FRA 	spec	language	French	
+FRC 	spec	language	Cajun French	
+FRI 	spec	language	Frisian	
+FRL 	spec	language	Friulian	
+FRP 	spec	language	Arpitan	
+FTA 	spec	language	Futa	
+FUL 	spec	language	Fulah	
+FUV 	spec	language	Nigerian Fulfulde	
+GAD 	spec	language	Ga	
+GAE 	spec	language	Scottish Gaelic	
+GAG 	spec	language	Gagauz	
+GAL 	spec	language	Galician	
+GAR 	spec	language	Garshuni	
+GAW 	spec	language	Garhwali	
+GEZ 	spec	language	Geez	
+GIH 	spec	language	Githabul	
+GIL 	spec	language	Gilyak	
+GIL0	spec	language	Kiribati (Gilbertese)	
+GKP 	spec	language	Kpelle (Guinea)	
+GLK 	spec	language	Gilaki	
+GMZ 	spec	language	Gumuz	
+GNN 	spec	language	Gumatj	
+GOG 	spec	language	Gogo	
+GON 	spec	language	Gondi	
+GRN 	spec	language	Greenlandic	
+GRO 	spec	language	Garo	
+GUA 	spec	language	Guarani	
+GUC 	spec	language	Wayuu	
+GUF 	spec	language	Gupapuyngu	
+GUJ 	spec	language	Gujarati	
+GUZ 	spec	language	Gusii	
+HAI 	spec	language	Haitian (Haitian Creole)	
+HAI0	spec	language	Haida	
+HAL 	spec	language	Halam (Falam Chin)	
+HAR 	spec	language	Harauti	
+HAU 	spec	language	Hausa	
+HAW 	spec	language	Hawaiian	
+HAY 	spec	language	Haya	
+HAZ 	spec	language	Hazaragi	
+HBN 	spec	language	Hammer-Banna	
+HEI 	spec	language	Heiltsuk	
+HER 	spec	language	Herero	
+HIL 	spec	language	Hiligaynon	
+HIN 	spec	language	Hindi	
+HMA 	spec	language	High Mari	
+HMD 	spec	language	A-Hmao	
+HMN 	spec	language	Hmong	
+HMO 	spec	language	Hiri Motu	
+HMZ 	spec	language	Hmong Shuat	
+HND 	spec	language	Hindko	
+HO 	spec	language	Ho	
+HRI 	spec	language	Harari	
+HRV 	spec	language	Croatian	
+HUN 	spec	language	Hungarian	
+HUR 	spec	language	Halkomelem	
+HYE 	spec	language	Armenian	
+HYE0	spec	language	Armenian East	
+IBA 	spec	language	Iban	
+IBB 	spec	language	Ibibio	
+IBO 	spec	language	Igbo	
+IDO 	spec	language	Ido	
+IJO 	spec	language	Ijo languages	
+ILE 	spec	language	Interlingue	
+ILO 	spec	language	Ilokano	
+INA 	spec	language	Interlingua	
+IND 	spec	language	Indonesian	
+ING 	spec	language	Ingush	
+INU 	spec	language	Inuktitut	
+INUK	spec	language	Nunavik Inuktitut	
+IPK 	spec	language	Inupiat	
+IPPH	spec	language	Phonetic transcription—IPA conventions	
+IRI 	spec	language	Irish	
+IRT 	spec	language	Irish Traditional	
+IRU 	spec	language	Irula	
+ISL 	spec	language	Icelandic	
+ISM 	spec	language	Inari Sami	
+ITA 	spec	language	Italian	
+IWR 	spec	language	Hebrew	
+JAM 	spec	language	Jamaican Creole	
+JAN 	spec	language	Japanese	
+JAV 	spec	language	Javanese	
+JBO 	spec	language	Lojban	
+JCT 	spec	language	Krymchak	
+JDT 	spec	language	Judeo-Tat	
+JII 	spec	language	Yiddish	
+JUD 	spec	language	Ladino	
+JUL 	spec	language	Jula	
+KAB 	spec	language	Kabardian	
+KAB0	spec	language	Kabyle	
+KAC 	spec	language	Kachchi	
+KAL 	spec	language	Kalenjin	
+KAN 	spec	language	Kannada	
+KAR 	spec	language	Karachay	
+KAT 	spec	language	Georgian	
+KAW 	spec	language	Kawi (Old Javanese)	
+KAZ 	spec	language	Kazakh	
+KBC 	spec	language	Kadiwéu	
+KDE 	spec	language	Makonde	
+KEA 	spec	language	Kabuverdianu (Crioulo)	
+KEB 	spec	language	Kebena	
+KEK 	spec	language	Kekchi	
+KGE 	spec	language	Khutsuri Georgian	
+KGF 	spec	language	Kube	
+KHA 	spec	language	Khakass	
+KHK 	spec	language	Khanty-Kazim	
+KHM 	spec	language	Khmer	
+KHS 	spec	language	Khanty-Shurishkar	
+KHT 	spec	language	Khamti Shan	
+KHV 	spec	language	Khanty-Vakhi	
+KHW 	spec	language	Khowar	
+KIK 	spec	language	Kikuyu (Gikuyu)	
+KIR 	spec	language	Kirghiz (Kyrgyz)	
+KIS 	spec	language	Kisii	
+KIU 	spec	language	Kirmanjki	
+KJD 	spec	language	Southern Kiwai	
+KJJ 	spec	language	Khinalug	
+KJP 	spec	language	Eastern Pwo Karen	
+KJZ 	spec	language	Bumthangkha	
+KKN 	spec	language	Kokni	
+KLM 	spec	language	Kalmyk	
+KMB 	spec	language	Kamba	
+KMG 	spec	language	Kâte	
+KMN 	spec	language	Kumaoni	
+KMO 	spec	language	Komo	
+KMS 	spec	language	Komso	
+KMZ 	spec	language	Khorasani Turkic	
+KNR 	spec	language	Kanuri	
+KOD 	spec	language	Kodagu	
+KOH 	spec	language	Korean Old Hangul	
+KOK 	spec	language	Konkani	
+KOM 	spec	language	Komi	
+KON 	spec	language	Kikongo	
+KON0	spec	language	Kongo	
+KOP 	spec	language	Komi-Permyak	
+KOR 	spec	language	Korean	
+KOS 	spec	language	Kosraean	
+KOZ 	spec	language	Komi-Zyrian	
+KPL 	spec	language	Kpelle	
+KRI 	spec	language	Krio	
+KRK 	spec	language	Karakalpak	
+KRL 	spec	language	Karelian	
+KRM 	spec	language	Karaim	
+KRN 	spec	language	Karen	
+KRT 	spec	language	Koorete	
+KSH 	spec	language	Kashmiri	
+KSH0	spec	language	Ripuarian	
+KSI 	spec	language	Khasi	
+KSM 	spec	language	Kildin Sami	
+KSU 	spec	language	Khamyang	
+KSW 	spec	language	S’gaw Karen	
+KUA 	spec	language	Kuanyama	
+KUI 	spec	language	Kui	
+KUL 	spec	language	Kulvi	
+KUM 	spec	language	Kumyk	
+KUR 	spec	language	Kurdish	
+KUU 	spec	language	Kurukh	
+KUY 	spec	language	Kuy	
+KVQ 	spec	language	Geba Karen	
+KWK 	spec	language	Kwakʼwala	
+KYK 	spec	language	Koryak	
+KYU 	spec	language	Western Kayah	
+LAD 	spec	language	Ladin	
+LAH 	spec	language	Lahuli	
+LAK 	spec	language	Lak	
+LAM 	spec	language	Lambani	
+LAO 	spec	language	Lao	
+LAT 	spec	language	Latin	
+LAZ 	spec	language	Laz	
+LCR 	spec	language	L-Cree	
+LDK 	spec	language	Ladakhi	
+LEF 	spec	language	Lelemi	
+LEZ 	spec	language	Lezgi	
+LIJ 	spec	language	Ligurian	
+LIM 	spec	language	Limburgish	
+LIN 	spec	language	Lingala	
+LIS 	spec	language	Lisu	
+LIV 	spec	language	Liv	
+LJP 	spec	language	Lampung	
+LKI 	spec	language	Laki	
+LMA 	spec	language	Low Mari	
+LMB 	spec	language	Limbu	
+LMO 	spec	language	Lombard	
+LMW 	spec	language	Lomwe	
+LOM 	spec	language	Loma	
+LPO 	spec	language	Lipo	
+LRC 	spec	language	Luri	
+LSB 	spec	language	Lower Sorbian	
+LSM 	spec	language	Lule Sami	
+LTH 	spec	language	Lithuanian	
+LTZ 	spec	language	Luxembourgish	
+LUA 	spec	language	Luba-Lulua	
+LUB 	spec	language	Luba-Katanga	
+LUG 	spec	language	Ganda	
+LUH 	spec	language	Luyia	
+LUO 	spec	language	Luo	
+LUT 	spec	language	Lushootseed	
+LVI 	spec	language	Latvian	
+MAD 	spec	language	Madura	
+MAG 	spec	language	Magahi	
+MAH 	spec	language	Marshallese	
+MAJ 	spec	language	Majang	
+MAK 	spec	language	Makhuwa	
+MAL 	spec	language	Malayalam	
+MAM 	spec	language	Mam	
+MAN 	spec	language	Mansi	
+MAP 	spec	language	Mapudungun	
+MAR 	spec	language	Marathi	
+MAW 	spec	language	Marwari	
+MBN 	spec	language	Mbundu	
+MBO 	spec	language	Mbo	
+MCH 	spec	language	Manchu	
+MCR 	spec	language	Moose Cree	
+MDE 	spec	language	Mende	
+MDR 	spec	language	Mandar	
+MEN 	spec	language	Me’en	
+MER 	spec	language	Meru	
+MEV 	spec	language	Mano	
+MFA 	spec	language	Pattani Malay	
+MFE 	spec	language	Morisyen	
+MIN 	spec	language	Minangkabau	
+MIZ 	spec	language	Mizo	
+MKD 	spec	language	Macedonian	
+MKR 	spec	language	Makasar	
+MKW 	spec	language	Kituba	
+MLE 	spec	language	Male	
+MLG 	spec	language	Malagasy	
+MLN 	spec	language	Malinke	
+MLR 	spec	language	Malayalam Reformed	
+MLY 	spec	language	Malay	
+MND 	spec	language	Mandinka	
+MNG 	spec	language	Mongolian	
+MNI 	spec	language	Manipuri	
+MNK 	spec	language	Maninka	
+MNX 	spec	language	Manx	
+MOH 	spec	language	Mohawk	
+MOK 	spec	language	Moksha	
+MOL 	spec	language	Moldavian	
+MON 	spec	language	Mon	
+MONT	spec	language	Thailand Mon	
+MOR 	spec	language	Moroccan	
+MOS 	spec	language	Mossi	
+MRI 	spec	language	Maori	
+MTH 	spec	language	Maithili	
+MTS 	spec	language	Maltese	
+MUN 	spec	language	Mundari	
+MUS 	spec	language	Muscogee	
+MWL 	spec	language	Mirandese	
+MWW 	spec	language	Hmong Daw	
+MYN 	spec	language	Mayan	
+MZN 	spec	language	Mazanderani	
+NAG 	spec	language	Naga-Assamese	
+NAH 	spec	language	Nahuatl	
+NAN 	spec	language	Nanai	
+NAP 	spec	language	Neapolitan	
+NAS 	spec	language	Naskapi	
+NAU 	spec	language	Nauruan	
+NAV 	spec	language	Navajo	
+NCR 	spec	language	N-Cree	
+NDB 	spec	language	Ndebele	
+NDC 	spec	language	Ndau	
+NDG 	spec	language	Ndonga	
+NDS 	spec	language	Low Saxon	
+NEP 	spec	language	Nepali	
+NEW 	spec	language	Newari	
+NGA 	spec	language	Ngbaka	
+NGR 	spec	language	Nagari	
+NHC 	spec	language	Norway House Cree	
+NIS 	spec	language	Nisi	
+NIU 	spec	language	Niuean	
+NKL 	spec	language	Nyankole	
+NKO 	spec	language	N’Ko	
+NLD 	spec	language	Dutch	
+NOE 	spec	language	Nimadi	
+NOG 	spec	language	Nogai	
+NOP 	spec	language	Numanggang	
+NOR 	spec	language	Norwegian	
+NOV 	spec	language	Novial	
+NSM 	spec	language	Northern Sami	
+NSO 	spec	language	Northern Sotho	
+NTA 	spec	language	Northern Tai	
+NTO 	spec	language	Esperanto	
+NUK 	spec	language	Nuu-chah-nulth	
+NYM 	spec	language	Nyamwezi	
+NYN 	spec	language	Norwegian Nynorsk (Nynorsk, Norwegian)	
+NZA 	spec	language	Mbembe Tigon	
+OCI 	spec	language	Occitan	
+OCR 	spec	language	Oji-Cree	
+OJB 	spec	language	Ojibway	
+ONE 	spec	language	Oneida	
+ONO 	spec	language	Onondaga	
+ORI 	spec	language	Odia	
+ORO 	spec	language	Oromo	
+OSS 	spec	language	Ossetian	
+PAA 	spec	language	Palestinian Aramaic	
+PAG 	spec	language	Pangasinan	
+PAL 	spec	language	Pali	
+PAM 	spec	language	Pampangan	
+PAN 	spec	language	Punjabi	
+PAP 	spec	language	Palpa	
+PAP0	spec	language	Papiamentu	
+PAS 	spec	language	Pashto	
+PAU 	spec	language	Palauan	
+PCC 	spec	language	Bouyei	
+PCD 	spec	language	Picard	
+PDC 	spec	language	Pennsylvania German	
+PGR 	spec	language	Polytonic Greek	
+PHK 	spec	language	Phake	
+PIH 	spec	language	Norfolk	
+PIL 	spec	language	Filipino	
+PLG 	spec	language	Palaung	
+PLG0	spec	language	Pilagá	
+PLK 	spec	language	Polish	
+PMS 	spec	language	Piemontese	
+PNB 	spec	language	Western Panjabi	
+POH 	spec	language	Pocomchi	
+PON 	spec	language	Pohnpeian	
+PRO 	spec	language	Provençal / Old Provençal	
+PTG 	spec	language	Portuguese	
+PWO 	spec	language	Western Pwo Karen	
+QIN 	spec	language	Chin	
+QUC 	spec	language	K’iche’	
+QUH 	spec	language	Quechua (Bolivia)	
+QUZ 	spec	language	Quechua	
+QVI 	spec	language	Quechua (Ecuador)	
+QWH 	spec	language	Quechua (Peru)	
+RAJ 	spec	language	Rajasthani	
+RAR 	spec	language	Rarotongan	
+RBU 	spec	language	Russian Buriat	
+RCR 	spec	language	R-Cree	
+REJ 	spec	language	Rejang	
+RIA 	spec	language	Riang	
+RHG 	spec	language	Rohingya	
+RIF 	spec	language	Tarifit	
+RIT 	spec	language	Ritarungo	
+RKW 	spec	language	Arakwal	
+RMS 	spec	language	Romansh	
+RMY 	spec	language	Vlax Romani	
+ROM 	spec	language	Romanian	
+ROY 	spec	language	Romany	
+RSY 	spec	language	Rusyn	
+RTM 	spec	language	Rotuman	
+RUA 	spec	language	Kinyarwanda	
+RUN 	spec	language	Rundi	
+RUP 	spec	language	Aromanian	
+RUS 	spec	language	Russian	
+SAD 	spec	language	Sadri	
+SAN 	spec	language	Sanskrit	
+SAS 	spec	language	Sasak	
+SAT 	spec	language	Santali	
+SAY 	spec	language	Sayisi	
+SCN 	spec	language	Sicilian	
+SCO 	spec	language	Scots	
+SCS 	spec	language	North Slavey	
+SEE 	spec	language	Seneca	
+SEK 	spec	language	Sekota	
+SEL 	spec	language	Selkup	
+SFM 	spec	language	Small Flowery Miao	
+SGA 	spec	language	Old Irish	
+SGO 	spec	language	Sango	
+SGS 	spec	language	Samogitian	
+SHI 	spec	language	Tachelhit	
+SHN 	spec	language	Shan	
+SIB 	spec	language	Sibe	
+SID 	spec	language	Sidamo	
+SIG 	spec	language	Silte Gurage	
+SJA 	spec	language	Epena	
+SJE 	spec	language	Pite Sami	
+SJU 	spec	language	Ume Sami	
+SKS 	spec	language	Skolt Sami	
+SKY 	spec	language	Slovak	
+SLA 	spec	language	Slavey	
+SLV 	spec	language	Slovenian	
+SML 	spec	language	Somali	
+SMO 	spec	language	Samoan	
+SNA 	spec	language	Sena	
+SNA0	spec	language	Shona	
+SND 	spec	language	Sindhi	
+SNH 	spec	language	Sinhala (Sinhalese)	
+SNK 	spec	language	Soninke	
+SOG 	spec	language	Sodo Gurage	
+SOP 	spec	language	Songe	
+SOT 	spec	language	Southern Sotho	
+SQI 	spec	language	Albanian	
+SRB 	spec	language	Serbian	
+SRD 	spec	language	Sardinian	
+SRK 	spec	language	Saraiki	
+SRR 	spec	language	Serer	
+SSL 	spec	language	South Slavey	
+SSM 	spec	language	Southern Sami	
+STR 	spec	language	Straits Salish	
+STQ 	spec	language	Saterland Frisian	
+SUK 	spec	language	Sukuma	
+SUN 	spec	language	Sundanese	
+SUR 	spec	language	Suri	
+SVA 	spec	language	Svan	
+SVE 	spec	language	Swedish	
+SWA 	spec	language	Swadaya Aramaic	
+SWK 	spec	language	Swahili	
+SWZ 	spec	language	Swati	
+SXT 	spec	language	Sutu	
+SXU 	spec	language	Upper Saxon	
+SYL 	spec	language	Sylheti	
+SYR 	spec	language	Syriac	
+SYRE	spec	language	Syriac, Estrangela script-variant	
+SYRJ	spec	language	Syriac, Western script-variant	
+SYRN	spec	language	Syriac, Eastern script-variant	
+SZL 	spec	language	Silesian	
+TAB 	spec	language	Tabasaran	
+TAJ 	spec	language	Tajiki	
+TAM 	spec	language	Tamil	
+TAQ 	spec	language	Tamasheq	
+TAT 	spec	language	Tatar	
+TBV 	spec	language	Tobo	
+TCR 	spec	language	TH-Cree	
+TDC 	spec	language	Emberá-Tadó	
+TDD 	spec	language	Dehong Dai	
+TEL 	spec	language	Telugu	
+TET 	spec	language	Tetum	
+TGL 	spec	language	Tagalog	
+TGN 	spec	language	Tongan	
+TGR 	spec	language	Tigre	
+TGY 	spec	language	Tigrinya	
+THA 	spec	language	Thai	
+THT 	spec	language	Tahitian	
+THP 	spec	language	Thompson	
+THV 	spec	language	Tahaggart Tamahaq	
+THZ 	spec	language	Tayart Tamajeq	
+TIB 	spec	language	Tibetan	
+TIV 	spec	language	Tiv	
+TJL 	spec	language	Tai Laing	
+TKM 	spec	language	Turkmen	
+TLI 	spec	language	Tlingit	
+TMH 	spec	language	Tamashek	
+TLY 	spec	language	Talysh	
+TMN 	spec	language	Temne	
+TNA 	spec	language	Tswana	
+TNE 	spec	language	Tundra Enets	
+TNG 	spec	language	Tonga	
+TOD 	spec	language	Todo	
+TOD0	spec	language	Toma	
+TPI 	spec	language	Tok Pisin	
+TRK 	spec	language	Turkish	
+TSG 	spec	language	Tsonga	
+TSJ 	spec	language	Tshangla	
+TTQ 	spec	language	Tawallammat Tamajaq	
+TUA 	spec	language	Turoyo Aramaic	
+TUL 	spec	language	Tulu	
+TUM 	spec	language	Tumbuka	
+TUS 	spec	language	Tuscarora	
+TUV 	spec	language	Tuvin	
+TVL 	spec	language	Tuvalu	
+TWI 	spec	language	Twi	
+TYZ 	spec	language	Tày	
+TZM 	spec	language	Tamazight	
+TZO 	spec	language	Tzotzil	
+UDI 	spec	language	Udi	
+UDM 	spec	language	Udmurt	
+UKR 	spec	language	Ukrainian	
+UMB 	spec	language	Umbundu	
+UPPH	spec	language	Uralic Phonetic Alphabet	
+URD 	spec	language	Urdu	
+USB 	spec	language	Upper Sorbian	
+UYG 	spec	language	Uyghur	
+UZB 	spec	language	Uzbek	
+VEC 	spec	language	Venetian	
+VEN 	spec	language	Venda	
+VIT 	spec	language	Vietnamese	
+VOL 	spec	language	Volapük	
+VRO 	spec	language	Võro	
+WA 	spec	language	Wa	
+WAG 	spec	language	Wagdi	
+WAR 	spec	language	Waray-Waray	
+WBL 	spec	language	Wakhi	
+WCI 	spec	language	Waci Gbe	
+WCR 	spec	language	West-Cree	
+WDT 	spec	language	Wendat	
+WEL 	spec	language	Welsh	
+WLF 	spec	language	Wolof	
+WLN 	spec	language	Walloon	
+WTM 	spec	language	Mewati	
+WYN 	spec	language	Wyandot	
+XBD 	spec	language	Lü	
+XHS 	spec	language	Xhosa	
+XJB 	spec	language	Minjangbal	
+XKF 	spec	language	Khengkha	
+XOG 	spec	language	Soga	
+XPE 	spec	language	Kpelle (Liberia)	
+XUB 	spec	language	Bette Kuruma	
+XUJ 	spec	language	Jennu Kuruma	
+YAK 	spec	language	Sakha	
+YAO 	spec	language	Yao	
+YAP 	spec	language	Yapese	
+YBA 	spec	language	Yoruba	
+YCR 	spec	language	Y-Cree	
+YGP 	spec	language	Gepo	
+YIC 	spec	language	Yi Classic	
+YIM 	spec	language	Yi Modern	
+YNA 	spec	language	Aluo	
+YUF 	spec	language	Havasupai-Walapai-Yavapai	
+YWQ 	spec	language	Wuding-Luquan Yi	
+ZEA 	spec	language	Zealandic	
+ZGH 	spec	language	Standard Moroccan Tamazight	
+ZHA 	spec	language	Zhuang	
+ZHH 	spec	language	Chinese, Traditional, Hong Kong SAR	
+ZHP 	spec	language	Chinese, Phonetic	
+ZHS 	spec	language	Chinese, Simplified	
+ZHT 	spec	language	Chinese, Traditional	
+ZHTM	spec	language	Chinese, Traditional, Macao SAR	
+ZND 	spec	language	Zande	
+ZUL 	spec	language	Zulu	
+ZZA 	spec	language	Zazaki	

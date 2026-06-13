@@ -1,0 +1,1320 @@
+token	source	category	definition
+aalt	spec	tag_feature	Access All Alternates	
+abvf	spec	tag_feature	Above-Base Forms	
+abvm	spec	tag_feature	Above-Base Mark Positioning	
+abvs	spec	tag_feature	Above-Base Substitutions	
+afrc	spec	tag_feature	Alternative Fractions	
+akhn	spec	tag_feature	Akhands	
+apkn	spec	tag_feature	Kerning for Alternate Proportional Widths	
+blwf	spec	tag_feature	Below-Base Forms	
+blwm	spec	tag_feature	Below-Base Mark Positioning	
+blws	spec	tag_feature	Below-Base Substitutions	
+calt	spec	tag_feature	Contextual Alternates	
+case	spec	tag_feature	Case-Sensitive Forms	
+ccmp	spec	tag_feature	Glyph Composition / Decomposition	
+cfar	spec	tag_feature	Conjunct Form After Ro	
+chws	spec	tag_feature	Contextual Half-Width Spacing	
+cjct	spec	tag_feature	Conjunct Forms	
+clig	spec	tag_feature	Contextual Ligatures	
+cpct	spec	tag_feature	Centered CJK Punctuation	
+cpsp	spec	tag_feature	Capital Spacing	
+cswh	spec	tag_feature	Contextual Swash	
+curs	spec	tag_feature	Cursive Positioning	
+cv01	spec	tag_feature	Character Variant 1	
+cv02	spec	tag_feature	Character Variant 2	
+cv03	spec	tag_feature	Character Variant 3	
+cv04	spec	tag_feature	Character Variant 4	
+cv05	spec	tag_feature	Character Variant 5	
+cv06	spec	tag_feature	Character Variant 6	
+cv07	spec	tag_feature	Character Variant 7	
+cv08	spec	tag_feature	Character Variant 8	
+cv09	spec	tag_feature	Character Variant 9	
+cv10	spec	tag_feature	Character Variant 10	
+cv11	spec	tag_feature	Character Variant 11	
+cv12	spec	tag_feature	Character Variant 12	
+cv13	spec	tag_feature	Character Variant 13	
+cv14	spec	tag_feature	Character Variant 14	
+cv15	spec	tag_feature	Character Variant 15	
+cv16	spec	tag_feature	Character Variant 16	
+cv17	spec	tag_feature	Character Variant 17	
+cv18	spec	tag_feature	Character Variant 18	
+cv19	spec	tag_feature	Character Variant 19	
+cv20	spec	tag_feature	Character Variant 20	
+cv21	spec	tag_feature	Character Variant 21	
+cv22	spec	tag_feature	Character Variant 22	
+cv23	spec	tag_feature	Character Variant 23	
+cv24	spec	tag_feature	Character Variant 24	
+cv25	spec	tag_feature	Character Variant 25	
+cv26	spec	tag_feature	Character Variant 26	
+cv27	spec	tag_feature	Character Variant 27	
+cv28	spec	tag_feature	Character Variant 28	
+cv29	spec	tag_feature	Character Variant 29	
+cv30	spec	tag_feature	Character Variant 30	
+cv31	spec	tag_feature	Character Variant 31	
+cv32	spec	tag_feature	Character Variant 32	
+cv33	spec	tag_feature	Character Variant 33	
+cv34	spec	tag_feature	Character Variant 34	
+cv35	spec	tag_feature	Character Variant 35	
+cv36	spec	tag_feature	Character Variant 36	
+cv37	spec	tag_feature	Character Variant 37	
+cv38	spec	tag_feature	Character Variant 38	
+cv39	spec	tag_feature	Character Variant 39	
+cv40	spec	tag_feature	Character Variant 40	
+cv41	spec	tag_feature	Character Variant 41	
+cv42	spec	tag_feature	Character Variant 42	
+cv43	spec	tag_feature	Character Variant 43	
+cv44	spec	tag_feature	Character Variant 44	
+cv45	spec	tag_feature	Character Variant 45	
+cv46	spec	tag_feature	Character Variant 46	
+cv47	spec	tag_feature	Character Variant 47	
+cv48	spec	tag_feature	Character Variant 48	
+cv49	spec	tag_feature	Character Variant 49	
+cv50	spec	tag_feature	Character Variant 50	
+cv51	spec	tag_feature	Character Variant 51	
+cv52	spec	tag_feature	Character Variant 52	
+cv53	spec	tag_feature	Character Variant 53	
+cv54	spec	tag_feature	Character Variant 54	
+cv55	spec	tag_feature	Character Variant 55	
+cv56	spec	tag_feature	Character Variant 56	
+cv57	spec	tag_feature	Character Variant 57	
+cv58	spec	tag_feature	Character Variant 58	
+cv59	spec	tag_feature	Character Variant 59	
+cv60	spec	tag_feature	Character Variant 60	
+cv61	spec	tag_feature	Character Variant 61	
+cv62	spec	tag_feature	Character Variant 62	
+cv63	spec	tag_feature	Character Variant 63	
+cv64	spec	tag_feature	Character Variant 64	
+cv65	spec	tag_feature	Character Variant 65	
+cv66	spec	tag_feature	Character Variant 66	
+cv67	spec	tag_feature	Character Variant 67	
+cv68	spec	tag_feature	Character Variant 68	
+cv69	spec	tag_feature	Character Variant 69	
+cv70	spec	tag_feature	Character Variant 70	
+cv71	spec	tag_feature	Character Variant 71	
+cv72	spec	tag_feature	Character Variant 72	
+cv73	spec	tag_feature	Character Variant 73	
+cv74	spec	tag_feature	Character Variant 74	
+cv75	spec	tag_feature	Character Variant 75	
+cv76	spec	tag_feature	Character Variant 76	
+cv77	spec	tag_feature	Character Variant 77	
+cv78	spec	tag_feature	Character Variant 78	
+cv79	spec	tag_feature	Character Variant 79	
+cv80	spec	tag_feature	Character Variant 80	
+cv81	spec	tag_feature	Character Variant 81	
+cv82	spec	tag_feature	Character Variant 82	
+cv83	spec	tag_feature	Character Variant 83	
+cv84	spec	tag_feature	Character Variant 84	
+cv85	spec	tag_feature	Character Variant 85	
+cv86	spec	tag_feature	Character Variant 86	
+cv87	spec	tag_feature	Character Variant 87	
+cv88	spec	tag_feature	Character Variant 88	
+cv89	spec	tag_feature	Character Variant 89	
+cv90	spec	tag_feature	Character Variant 90	
+cv91	spec	tag_feature	Character Variant 91	
+cv92	spec	tag_feature	Character Variant 92	
+cv93	spec	tag_feature	Character Variant 93	
+cv94	spec	tag_feature	Character Variant 94	
+cv95	spec	tag_feature	Character Variant 95	
+cv96	spec	tag_feature	Character Variant 96	
+cv97	spec	tag_feature	Character Variant 97	
+cv98	spec	tag_feature	Character Variant 98	
+cv99	spec	tag_feature	Character Variant 99	
+c2pc	spec	tag_feature	Petite Capitals From Capitals	
+c2sc	spec	tag_feature	Small Capitals From Capitals	
+dist	spec	tag_feature	Distances	
+dlig	spec	tag_feature	Discretionary Ligatures	
+dnom	spec	tag_feature	Denominators	
+dtls	spec	tag_feature	Dotless Forms	
+expt	spec	tag_feature	Expert Forms	
+falt	spec	tag_feature	Final Glyph On Line Alternates	
+fin2	spec	tag_feature	Terminal Forms #2	
+fin3	spec	tag_feature	Terminal Forms #3	
+fina	spec	tag_feature	Terminal Forms	
+flac	spec	tag_feature	Flattened Accent Forms	
+frac	spec	tag_feature	Fractions	
+fwid	spec	tag_feature	Full Widths	
+half	spec	tag_feature	Half Forms	
+haln	spec	tag_feature	Halant Forms	
+halt	spec	tag_feature	Alternate Half Widths	
+hist	spec	tag_feature	Historical Forms	
+hkna	spec	tag_feature	Horizontal Kana Alternates	
+hlig	spec	tag_feature	Historical Ligatures	
+hngl	spec	tag_feature	Hangul (Deprecated)	
+hojo	spec	tag_feature	Hojo Kanji Forms (JIS X 0212-1990 Kanji Forms)	
+hwid	spec	tag_feature	Half Widths	
+init	spec	tag_feature	Initial Forms	
+isol	spec	tag_feature	Isolated Forms	
+ital	spec	tag_feature	Italics	
+jalt	spec	tag_feature	Justification Alternates	
+jp78	spec	tag_feature	JIS78 Forms	
+jp83	spec	tag_feature	JIS83 Forms	
+jp90	spec	tag_feature	JIS90 Forms	
+jp04	spec	tag_feature	JIS2004 Forms	
+kern	spec	tag_feature	Kerning	
+lfbd	spec	tag_feature	Left Bounds	
+liga	spec	tag_feature	Standard Ligatures	
+ljmo	spec	tag_feature	Leading Jamo Forms	
+lnum	spec	tag_feature	Lining Figures	
+locl	spec	tag_feature	Localized Forms	
+ltra	spec	tag_feature	Left-To-Right Alternates	
+ltrm	spec	tag_feature	Left-To-Right Mirrored Forms	
+mark	spec	tag_feature	Mark Positioning	
+med2	spec	tag_feature	Medial Forms #2	
+medi	spec	tag_feature	Medial Forms	
+mgrk	spec	tag_feature	Mathematical Greek	
+mkmk	spec	tag_feature	Mark To Mark Positioning	
+mset	spec	tag_feature	Mark Positioning Via Substitution	
+nalt	spec	tag_feature	Alternate Annotation Forms	
+nlck	spec	tag_feature	NLC Kanji Forms	
+nukt	spec	tag_feature	Nukta Forms	
+numr	spec	tag_feature	Numerators	
+onum	spec	tag_feature	Oldstyle Figures	
+opbd	spec	tag_feature	Optical Bounds (Deprecated)	
+ordn	spec	tag_feature	Ordinals	
+ornm	spec	tag_feature	Ornaments	
+palt	spec	tag_feature	Proportional Alternate Widths	
+pcap	spec	tag_feature	Petite Capitals	
+pkna	spec	tag_feature	Proportional Kana	
+pnum	spec	tag_feature	Proportional Figures	
+pref	spec	tag_feature	Pre-Base Forms	
+pres	spec	tag_feature	Pre-Base Substitutions	
+pstf	spec	tag_feature	Post-Base Forms	
+psts	spec	tag_feature	Post-Base Substitutions	
+pwid	spec	tag_feature	Proportional Widths	
+qwid	spec	tag_feature	Quarter Widths	
+rand	spec	tag_feature	Randomize	
+rclt	spec	tag_feature	Required Contextual Alternates	
+rkrf	spec	tag_feature	Rakar Forms	
+rlig	spec	tag_feature	Required Ligatures	
+rphf	spec	tag_feature	Reph Forms	
+rtbd	spec	tag_feature	Right Bounds	
+rtla	spec	tag_feature	Right-To-Left Alternates	
+rtlm	spec	tag_feature	Right-To-Left Mirrored Forms	
+ruby	spec	tag_feature	Ruby Notation Forms	
+rvrn	spec	tag_feature	Required Variation Alternates	
+salt	spec	tag_feature	Stylistic Alternates	
+sinf	spec	tag_feature	Scientific Inferiors	
+size	spec	tag_feature	Optical Size	
+smcp	spec	tag_feature	Small Capitals	
+smpl	spec	tag_feature	Simplified Forms	
+ss01	spec	tag_feature	Stylistic Set 1	
+ss02	spec	tag_feature	Stylistic Set 2	
+ss03	spec	tag_feature	Stylistic Set 3	
+ss04	spec	tag_feature	Stylistic Set 4	
+ss05	spec	tag_feature	Stylistic Set 5	
+ss06	spec	tag_feature	Stylistic Set 6	
+ss07	spec	tag_feature	Stylistic Set 7	
+ss08	spec	tag_feature	Stylistic Set 8	
+ss09	spec	tag_feature	Stylistic Set 9	
+ss10	spec	tag_feature	Stylistic Set 10	
+ss11	spec	tag_feature	Stylistic Set 11	
+ss12	spec	tag_feature	Stylistic Set 12	
+ss13	spec	tag_feature	Stylistic Set 13	
+ss14	spec	tag_feature	Stylistic Set 14	
+ss15	spec	tag_feature	Stylistic Set 15	
+ss16	spec	tag_feature	Stylistic Set 16	
+ss17	spec	tag_feature	Stylistic Set 17	
+ss18	spec	tag_feature	Stylistic Set 18	
+ss19	spec	tag_feature	Stylistic Set 19	
+ss20	spec	tag_feature	Stylistic Set 20	
+ssty	spec	tag_feature	Math Script-Style Alternates	
+stch	spec	tag_feature	Stretching Glyph Decomposition	
+subs	spec	tag_feature	Subscript	
+sups	spec	tag_feature	Superscript	
+swsh	spec	tag_feature	Swash	
+titl	spec	tag_feature	Titling	
+tjmo	spec	tag_feature	Trailing Jamo Forms	
+tnam	spec	tag_feature	Traditional Name Forms	
+tnum	spec	tag_feature	Tabular Figures	
+trad	spec	tag_feature	Traditional Forms	
+twid	spec	tag_feature	Third Widths	
+unic	spec	tag_feature	Unicase	
+valt	spec	tag_feature	Alternate Vertical Metrics	
+vapk	spec	tag_feature	Kerning for Alternate Proportional Vertical Metrics	
+vatu	spec	tag_feature	Vattu Variants	
+vchw	spec	tag_feature	Vertical Contextual Half-Width Spacing	
+vert	spec	tag_feature	Vertical Alternates	
+vhal	spec	tag_feature	Alternate Vertical Half Metrics	
+vjmo	spec	tag_feature	Vowel Jamo Forms	
+vkna	spec	tag_feature	Vertical Kana Alternates	
+vkrn	spec	tag_feature	Vertical Kerning	
+vpal	spec	tag_feature	Proportional Alternate Vertical Metrics	
+vrt2	spec	tag_feature	Vertical Alternates and Rotation	
+vrtr	spec	tag_feature	Vertical Alternates for Rotation	
+zero	spec	tag_feature	Slashed Zero	
+ REQ	fontforge	tag_feature	Required FontForge internal usage	
+ITLC	fontforge	tag_feature	(deprecated) TeX Math Italic Correction	
+TCHL	fontforge	tag_feature	(deprecated) TeX Math Charlist	
+TEXL	fontforge	tag_feature	(deprecated) TeX Math Extension List	
+Harf	harfbuzz	tag_feature	Required HarfBuzz private-use	
+Buzz	harfbuzz	tag_feature	Required HarfBuzz private-use	
+HARF	harfbuzz	tag_feature	Discretionary HarfBuzz private-use 	
+BUZZ	harfbuzz	tag_feature	Discretionary HarfBuzz private-use	
+zz01	volt	tag_feature	VOLT internal usage 1	
+zz02	volt	tag_feature	VOLT internal usage 2	
+zz03	volt	tag_feature	VOLT internal usage 3	
+zz04	volt	tag_feature	VOLT internal usage 4	
+zz05	volt	tag_feature	VOLT internal usage 5	
+zz06	volt	tag_feature	VOLT internal usage 6	
+zz07	volt	tag_feature	VOLT internal usage 7	
+zz08	volt	tag_feature	VOLT internal usage 8	
+zz09	volt	tag_feature	VOLT internal usage 9	
+zz10	volt	tag_feature	VOLT internal usage 10	
+zz11	volt	tag_feature	VOLT internal usage 11	
+zz12	volt	tag_feature	VOLT internal usage 12	
+zz13	volt	tag_feature	VOLT internal usage 13	
+zz14	volt	tag_feature	VOLT internal usage 14	
+zz15	volt	tag_feature	VOLT internal usage 15	
+zz16	volt	tag_feature	VOLT internal usage 16	
+zz17	volt	tag_feature	VOLT internal usage 17	
+zz18	volt	tag_feature	VOLT internal usage 18	
+zz19	volt	tag_feature	VOLT internal usage 19	
+zz20	volt	tag_feature	VOLT internal usage 20	
+zz21	volt	tag_feature	VOLT internal usage 21	
+zz22	volt	tag_feature	VOLT internal usage 22	
+zz23	volt	tag_feature	VOLT internal usage 23	
+zz24	volt	tag_feature	VOLT internal usage 24	
+zz25	volt	tag_feature	VOLT internal usage 25	
+zz26	volt	tag_feature	VOLT internal usage 26	
+zz27	volt	tag_feature	VOLT internal usage 27	
+zz28	volt	tag_feature	VOLT internal usage 28	
+zz29	volt	tag_feature	VOLT internal usage 29	
+zz30	volt	tag_feature	VOLT internal usage 30	
+zz31	volt	tag_feature	VOLT internal usage 31	
+zz32	volt	tag_feature	VOLT internal usage 32	
+zz33	volt	tag_feature	VOLT internal usage 33	
+zz34	volt	tag_feature	VOLT internal usage 34	
+zz35	volt	tag_feature	VOLT internal usage 35	
+zz36	volt	tag_feature	VOLT internal usage 36	
+zz37	volt	tag_feature	VOLT internal usage 37	
+zz38	volt	tag_feature	VOLT internal usage 38	
+zz39	volt	tag_feature	VOLT internal usage 39	
+zz40	volt	tag_feature	VOLT internal usage 40	
+zz41	volt	tag_feature	VOLT internal usage 41	
+zz42	volt	tag_feature	VOLT internal usage 42	
+zz43	volt	tag_feature	VOLT internal usage 43	
+zz44	volt	tag_feature	VOLT internal usage 44	
+zz45	volt	tag_feature	VOLT internal usage 45	
+zz46	volt	tag_feature	VOLT internal usage 46	
+zz47	volt	tag_feature	VOLT internal usage 47	
+zz48	volt	tag_feature	VOLT internal usage 48	
+zz49	volt	tag_feature	VOLT internal usage 49	
+zz50	volt	tag_feature	VOLT internal usage 50	
+zz51	volt	tag_feature	VOLT internal usage 51	
+zz52	volt	tag_feature	VOLT internal usage 52	
+zz53	volt	tag_feature	VOLT internal usage 53	
+zz54	volt	tag_feature	VOLT internal usage 54	
+zz55	volt	tag_feature	VOLT internal usage 55	
+zz56	volt	tag_feature	VOLT internal usage 56	
+zz57	volt	tag_feature	VOLT internal usage 57	
+zz58	volt	tag_feature	VOLT internal usage 58	
+zz59	volt	tag_feature	VOLT internal usage 59	
+zz60	volt	tag_feature	VOLT internal usage 60	
+zz61	volt	tag_feature	VOLT internal usage 61	
+zz62	volt	tag_feature	VOLT internal usage 62	
+zz63	volt	tag_feature	VOLT internal usage 63	
+zz64	volt	tag_feature	VOLT internal usage 64	
+zz65	volt	tag_feature	VOLT internal usage 65	
+zz66	volt	tag_feature	VOLT internal usage 66	
+zz67	volt	tag_feature	VOLT internal usage 67	
+zz68	volt	tag_feature	VOLT internal usage 68	
+zz69	volt	tag_feature	VOLT internal usage 69	
+zz70	volt	tag_feature	VOLT internal usage 70	
+zz71	volt	tag_feature	VOLT internal usage 71	
+zz72	volt	tag_feature	VOLT internal usage 72	
+zz73	volt	tag_feature	VOLT internal usage 73	
+zz74	volt	tag_feature	VOLT internal usage 74	
+zz75	volt	tag_feature	VOLT internal usage 75	
+zz76	volt	tag_feature	VOLT internal usage 76	
+zz77	volt	tag_feature	VOLT internal usage 77	
+zz78	volt	tag_feature	VOLT internal usage 78	
+zz79	volt	tag_feature	VOLT internal usage 79	
+zz80	volt	tag_feature	VOLT internal usage 80	
+zz81	volt	tag_feature	VOLT internal usage 81	
+zz82	volt	tag_feature	VOLT internal usage 82	
+zz83	volt	tag_feature	VOLT internal usage 83	
+zz84	volt	tag_feature	VOLT internal usage 84	
+zz85	volt	tag_feature	VOLT internal usage 85	
+zz86	volt	tag_feature	VOLT internal usage 86	
+zz87	volt	tag_feature	VOLT internal usage 87	
+zz88	volt	tag_feature	VOLT internal usage 88	
+zz89	volt	tag_feature	VOLT internal usage 89	
+zz90	volt	tag_feature	VOLT internal usage 90	
+zz91	volt	tag_feature	VOLT internal usage 91	
+zz92	volt	tag_feature	VOLT internal usage 92	
+zz93	volt	tag_feature	VOLT internal usage 93	
+zz94	volt	tag_feature	VOLT internal usage 94	
+zz95	volt	tag_feature	VOLT internal usage 95	
+zz96	volt	tag_feature	VOLT internal usage 96	
+zz97	volt	tag_feature	VOLT internal usage 97	
+zz98	volt	tag_feature	VOLT internal usage 98	
+zz99	volt	tag_feature	VOLT internal usage 99	
+hang	spec	tag_baseline	Hanging Baseline	
+icfb	spec	tag_baseline	Ideographic Character Face Bottom Edge	
+icft	spec	tag_baseline	Ideographic Character Face Top Edge	
+ideo	spec	tag_baseline	Ideographic Em-Box Face Bottom Edge	
+idtp	spec	tag_baseline	Ideographic Em-Box Face Top Edge	
+math	spec	tag_baseline	Mathematical Formula Centerline	
+romn	spec	tag_baseline	Alphabetic Script Baseline	
+ital	spec	tag_axis	Italic	
+opsz	spec	tag_axis	Optical Size	
+slnt	spec	tag_axis	Slant	
+wdth	spec	tag_axis	Width	
+wght	spec	tag_axis	Weight	
+ARRR	google	tag_axis	AR Retinal Resolution	
+YTAS	google	tag_axis	Ascender Height	
+BLED	google	tag_axis	Bleed	
+BNCE	google	tag_axis	Bounce	
+CASL	google	tag_axis	Casual	
+CTRS	google	tag_axis	Contrast	
+XTRA	google	tag_axis	Counter Width	
+CRSV	google	tag_axis	Cursive	
+YTDE	google	tag_axis	Descender Depth	
+EHLT	google	tag_axis	Edge Highlight	
+ELXP	google	tag_axis	Element Expansion	
+ELGR	google	tag_axis	Element Grid	
+ELSH	google	tag_axis	ELement Shape	
+EDPT	google	tag_axis	Extrusion Depth	
+YTFI	google	tag_axis	Figure Height	
+FILL	google	tag_axis	Fill	
+FLAR	google	tag_axis	Flare	
+GRAD	google	tag_axis	Grade	
+XELA	google	tag_axis	Horizontal Element Alignment	
+XPN1	google	tag_axis	Horizontal Position of Paint 1	
+XPN2	google	tag_axis	Horizontal Position of Paint 2	
+HEXP	google	tag_axis	Hyper Expansion	
+INFM	google	tag_axis	Informality	
+YTLC	google	tag_axis	Lowercase Height	
+MONO	google	tag_axis	Monospace	
+MORF	google	tag_axis	Morph	
+XROT	google	tag_axis	Rotation in X	
+YROT	google	tag_axis	Rotation in Y	
+ZROT	google	tag_axis	Rotation in Z	
+ROND	google	tag_axis	Roundness	
+SCAN	google	tag_axis	Scanlines	
+SHLN	google	tag_axis	Shadow Length	
+SHRP	google	tag_axis	Sharpness	
+SZP1	google	tag_axis	Size of Paint 1	
+SZP2	google	tag_axis	Size of Paint 2	
+SOFT	google	tag_axis	Softness	
+SPAC	google	tag_axis	Spacing	
+XOPQ	google	tag_axis	Thick Stroke	
+YOPQ	google	tag_axis	Thin Stroke	
+YTUC	google	tag_axis	Uppercase Height	
+YELA	google	tag_axis	Vertical Element Alignment	
+YEXT	google	tag_axis	Vertical Extension	
+YPN1	google	tag_axis	Vertical Position of Paint 1	
+YPN2	google	tag_axis	Vertical Position of Paint 2	
+VOLM	google	tag_axis	Volume	
+WONK	google	tag_axis	Wonky	
+YEAR	google	tag_axis	Year	
+hasc	spec	tag_value	Horizontal Ascender	
+hdsc	spec	tag_value	Horizontal Descender	
+hlgp	spec	tag_value	Horizontal Line Gap	
+hcla	spec	tag_value	Horizontal Clipping Ascent	
+hcld	spec	tag_value	Horizontal Clipping Descent	
+vasc	spec	tag_value	Vertical Ascender	
+vdsc	spec	tag_value	Vertical Descender	
+vlgp	spec	tag_value	Vertical Line Gap	
+hcrs	spec	tag_value	Horizontal Caret Rise	
+hcrn	spec	tag_value	Horizontal Caret Run	
+hcof	spec	tag_value	Horizontal Caret Offset	
+vcrs	spec	tag_value	Vertical Caret Rise	
+vcrn	spec	tag_value	Vertical Caret Run	
+vcof	spec	tag_value	Vertical Caret Offset	
+xhgt	spec	tag_value	x Height	
+cpht	spec	tag_value	Cap Height	
+sbxs	spec	tag_value	Subscript Em X Size	
+sbys	spec	tag_value	Subscript Em Y Size	
+sbxo	spec	tag_value	Subscript Em X Offset	
+sbyo	spec	tag_value	Subscript Em Y Offset	
+spxs	spec	tag_value	Superscript Em X Size	
+spys	spec	tag_value	Superscript Em Y Size	
+spxo	spec	tag_value	Superscript Em X Offset	
+spyo	spec	tag_value	Superscript Em Y Offset	
+strs	spec	tag_value	Strikeout Size	
+stro	spec	tag_value	Strikeout Offset	
+unds	spec	tag_value	Underline Size	
+undo	spec	tag_value	Underline Offset	
+gsp0	spec	tag_value	gaspRange[0]	
+gsp1	spec	tag_value	gaspRange[1]	
+gsp2	spec	tag_value	gaspRange[2]	
+gsp3	spec	tag_value	gaspRange[3]	
+gsp4	spec	tag_value	gaspRange[4]	
+gsp5	spec	tag_value	gaspRange[5]	
+gsp6	spec	tag_value	gaspRange[6]	
+gsp7	spec	tag_value	gaspRange[7]	
+gsp8	spec	tag_value	gaspRange[8]	
+gsp9	spec	tag_value	gaspRange[9]	
+appl	spec	tag_metadata	Reserved, used by Apple	
+bild	spec	tag_metadata	Reserved, used by Apple	
+dlng	spec	tag_metadata	Design Languages	
+slng	spec	tag_metadata	Supported Languages	
+adlm	spec	tag_script	Adlam	
+ahom	spec	tag_script	Ahom	
+hluw	spec	tag_script	Anatolian Hieroglyphs	
+arab	spec	tag_script	Arabic	
+armn	spec	tag_script	Armenian	
+avst	spec	tag_script	Avestan	
+bali	spec	tag_script	Balinese	
+bamu	spec	tag_script	Bamum	
+bass	spec	tag_script	Bassa Vah	
+batk	spec	tag_script	Batak	
+beng	spec	tag_script	Bangla	
+bng2	spec	tag_script	Bangla v.2	
+berf	spec	tag_script	Beria Erfe	
+bhks	spec	tag_script	Bhaiksuki	
+bopo	spec	tag_script	Bopomofo	
+brah	spec	tag_script	Brahmi	
+brai	spec	tag_script	Braille	
+bugi	spec	tag_script	Buginese	
+buhd	spec	tag_script	Buhid	
+byzm	spec	tag_script	Byzantine Music	
+cans	spec	tag_script	Canadian Syllabics	
+cari	spec	tag_script	Carian	
+aghb	spec	tag_script	Caucasian Albanian	
+cakm	spec	tag_script	Chakma	
+cham	spec	tag_script	Cham	
+cher	spec	tag_script	Cherokee	
+chrs	spec	tag_script	Chorasmian	
+hani	spec	tag_script	CJK Ideographic	
+copt	spec	tag_script	Coptic	
+cprt	spec	tag_script	Cypriot Syllabary	
+cpmn	spec	tag_script	Cypro-Minoan	
+cyrl	spec	tag_script	Cyrillic	
+DFLT	spec	tag_script	Default	
+dsrt	spec	tag_script	Deseret	
+deva	spec	tag_script	Devanagari	
+dev2	spec	tag_script	Devanagari v.2	
+diak	spec	tag_script	Dives Akuru	
+dogr	spec	tag_script	Dogra	
+dupl	spec	tag_script	Duployan	
+egyp	spec	tag_script	Egyptian Hieroglyphs	
+elba	spec	tag_script	Elbasan	
+elym	spec	tag_script	Elymaic	
+ethi	spec	tag_script	Ethiopic	
+gara	spec	tag_script	Garay	
+geor	spec	tag_script	Georgian	
+glag	spec	tag_script	Glagolitic	
+goth	spec	tag_script	Gothic	
+gran	spec	tag_script	Grantha	
+grek	spec	tag_script	Greek	
+gujr	spec	tag_script	Gujarati	
+gjr2	spec	tag_script	Gujarati v.2	
+gong	spec	tag_script	Gunjala Gondi	
+guru	spec	tag_script	Gurmukhi	
+gur2	spec	tag_script	Gurmukhi v.2	
+gukh	spec	tag_script	Gurung Khema	
+hang	spec	tag_script	Hangul	
+jamo	spec	tag_script	Hangul Jamo (deprecated in favor of 'hang')	
+rohg	spec	tag_script	Hanifi Rohingya	
+hano	spec	tag_script	Hanunoo	
+hatr	spec	tag_script	Hatran	
+hebr	spec	tag_script	Hebrew	
+kana	spec	tag_script	Hiragana	
+armi	spec	tag_script	Imperial Aramaic	
+phli	spec	tag_script	Inscriptional Pahlavi	
+prti	spec	tag_script	Inscriptional Parthian	
+java	spec	tag_script	Javanese	
+kthi	spec	tag_script	Kaithi	
+knda	spec	tag_script	Kannada	
+knd2	spec	tag_script	Kannada v.2	
+kana	spec	tag_script	Katakana	
+kawi	spec	tag_script	Kawi	
+kali	spec	tag_script	Kayah Li	
+khar	spec	tag_script	Kharosthi	
+kits	spec	tag_script	Khitan Small Script	
+khmr	spec	tag_script	Khmer	
+khoj	spec	tag_script	Khojki	
+sind	spec	tag_script	Khudawadi	
+krai	spec	tag_script	Kirat Rai	
+lao 	spec	tag_script	Lao	
+latn	spec	tag_script	Latin	
+lepc	spec	tag_script	Lepcha	
+limb	spec	tag_script	Limbu	
+lina	spec	tag_script	Linear A	
+linb	spec	tag_script	Linear B	
+lisu	spec	tag_script	Lisu (Fraser)	
+lyci	spec	tag_script	Lycian	
+lydi	spec	tag_script	Lydian	
+mahj	spec	tag_script	Mahajani	
+maka	spec	tag_script	Makasar	
+mlym	spec	tag_script	Malayalam	
+mlm2	spec	tag_script	Malayalam v.2	
+mand	spec	tag_script	Mandaic, Mandaean	
+mani	spec	tag_script	Manichaean	
+marc	spec	tag_script	Marchen	
+gonm	spec	tag_script	Masaram Gondi	
+math	spec	tag_script	Mathematical text layout	
+medf	spec	tag_script	Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)	
+mtei	spec	tag_script	Meitei Mayek (Meithei, Meetei)	
+mend	spec	tag_script	Mende Kikakui	
+merc	spec	tag_script	Meroitic Cursive	
+mero	spec	tag_script	Meroitic Hieroglyphs	
+plrd	spec	tag_script	Miao	
+modi	spec	tag_script	Modi	
+mong	spec	tag_script	Mongolian	
+mroo	spec	tag_script	Mro	
+mult	spec	tag_script	Multani	
+musc	spec	tag_script	Musical Symbols	
+mymr	spec	tag_script	Myanmar	(deprecated in favor of 'mym2')
+mym2	spec	tag_script	Myanmar v.2	
+nbat	spec	tag_script	Nabataean	
+nagm	spec	tag_script	Nag Mundari	
+nand	spec	tag_script	Nandinagari	
+newa	spec	tag_script	Newa	
+talu	spec	tag_script	New Tai Lue	
+nko 	spec	tag_script	N'Ko	
+nshu	spec	tag_script	Nüshu	
+hmnp	spec	tag_script	Nyiakeng Puachue Hmong	
+orya	spec	tag_script	Odia	
+ory2	spec	tag_script	Odia v.2	
+ogam	spec	tag_script	Ogham	
+olck	spec	tag_script	Ol Chiki	
+onao	spec	tag_script	Ol Onal	
+ital	spec	tag_script	Old Italic	
+hung	spec	tag_script	Old Hungarian	
+narb	spec	tag_script	Old North Arabian	
+perm	spec	tag_script	Old Permic	
+xpeo	spec	tag_script	Old Persian Cuneiform	
+sogo	spec	tag_script	Old Sogdian	
+sarb	spec	tag_script	Old South Arabian	
+orkh	spec	tag_script	Old Turkic, Orkhon Runic	
+ougr	spec	tag_script	Old Uyghur	
+osge	spec	tag_script	Osage	
+osma	spec	tag_script	Osmanya	
+hmng	spec	tag_script	Pahawh Hmong	
+palm	spec	tag_script	Palmyrene	
+pauc	spec	tag_script	Pau Cin Hau	
+phag	spec	tag_script	Phags-pa	
+phnx	spec	tag_script	Phoenician	
+phlp	spec	tag_script	Psalter Pahlavi	
+rjng	spec	tag_script	Rejang	
+runr	spec	tag_script	Runic	
+samr	spec	tag_script	Samaritan	
+saur	spec	tag_script	Saurashtra	
+shrd	spec	tag_script	Sharada	
+shaw	spec	tag_script	Shavian	
+sidd	spec	tag_script	Siddham	
+sidt	spec	tag_script	Sidetic	
+sgnw	spec	tag_script	Sign Writing	
+sinh	spec	tag_script	Sinhala	
+sogd	spec	tag_script	Sogdian	
+sora	spec	tag_script	Sora Sompeng	
+soyo	spec	tag_script	Soyombo	
+xsux	spec	tag_script	Sumero-Akkadian Cuneiform	
+sund	spec	tag_script	Sundanese	
+sunu	spec	tag_script	Sunuwar	
+sylo	spec	tag_script	Syloti Nagri	
+syrc	spec	tag_script	Syriac	
+tglg	spec	tag_script	Tagalog	
+tagb	spec	tag_script	Tagbanwa	
+tale	spec	tag_script	Tai Le	
+lana	spec	tag_script	Tai Tham (Lanna)	
+tavt	spec	tag_script	Tai Viet	
+tayo	spec	tag_script	Tai Yo	
+takr	spec	tag_script	Takri	
+taml	spec	tag_script	Tamil	
+tml2	spec	tag_script	Tamil v.2	
+tnsa	spec	tag_script	Tangsa	
+tang	spec	tag_script	Tangut	
+telu	spec	tag_script	Telugu	
+tel2	spec	tag_script	Telugu v.2	
+thaa	spec	tag_script	Thaana	
+thai	spec	tag_script	Thai	
+tibt	spec	tag_script	Tibetan	
+tfng	spec	tag_script	Tifinagh	
+tirh	spec	tag_script	Tirhuta	
+todr	spec	tag_script	Todhri	
+tols	spec	tag_script	Tolong Siki	
+toto	spec	tag_script	Toto	
+tutg	spec	tag_script	Tulu-Tigalari	
+ugar	spec	tag_script	Ugaritic Cuneiform	
+vai 	spec	tag_script	Vai	
+vith	spec	tag_script	Vithkuqi	
+wcho	spec	tag_script	Wancho	
+wara	spec	tag_script	Warang Citi	
+yezi	spec	tag_script	Yezidi	
+yi  	spec	tag_script	Yi (actual tag byte sequence is 0x79 0x69 0x20 0x20.)	
+zanb	spec	tag_script	Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, Horizontal Square Script)	
+zz01	volt	tag_script	VOLT internal usage	
+AAQ 	spec	tag_language	Eastern Abenaki	
+ABA 	spec	tag_language	Abaza	
+ABK 	spec	tag_language	Abkhazian	
+ACH 	spec	tag_language	Acholi	
+ACR 	spec	tag_language	Achi	
+ACY 	spec	tag_language	Cypriot Arabic	
+ADY 	spec	tag_language	Adyghe	
+AFK 	spec	tag_language	Afrikaans	
+AFR 	spec	tag_language	Afar	
+AGW 	spec	tag_language	Agaw	
+AIO 	spec	tag_language	Aiton	
+AKA 	spec	tag_language	Akan	
+AKB 	spec	tag_language	Batak Angkola	
+ALS 	spec	tag_language	Alsatian	
+ALT 	spec	tag_language	Altai	
+AMH 	spec	tag_language	Amharic	
+ANG 	spec	tag_language	Anglo-Saxon	
+APPH	spec	tag_language	Phonetic transcription—Americanist conventions	
+ARA 	spec	tag_language	Arabic	
+ARG 	spec	tag_language	Aragonese	
+ARI 	spec	tag_language	Aari	
+ARK 	spec	tag_language	Rakhine	
+ASM 	spec	tag_language	Assamese	
+AST 	spec	tag_language	Asturian	
+ATH 	spec	tag_language	Athapaskan languages	
+ATS 	spec	tag_language	Gros Ventre (Atsina)	
+AVN 	spec	tag_language	Avatime	
+AVR 	spec	tag_language	Avar	
+AWA 	spec	tag_language	Awadhi	
+AYM 	spec	tag_language	Aymara	
+AZB 	spec	tag_language	Torki	
+AZE 	spec	tag_language	Azerbaijani	
+BAD 	spec	tag_language	Badaga	
+BAD0	spec	tag_language	Banda	
+BAG 	spec	tag_language	Baghelkhandi	
+BAL 	spec	tag_language	Balkar	
+BAN 	spec	tag_language	Balinese	
+BAR 	spec	tag_language	Bavarian	
+BAU 	spec	tag_language	Baulé	
+BBC 	spec	tag_language	Batak Toba	
+BBR 	spec	tag_language	Berber	
+BCH 	spec	tag_language	Bench	
+BCR 	spec	tag_language	Bible Cree	
+BDC 	spec	tag_language	Emberá-Baudó	
+BDY 	spec	tag_language	Bandjalang	
+BEL 	spec	tag_language	Belarusian	
+BEM 	spec	tag_language	Bemba	
+BEN 	spec	tag_language	Bangla	
+BGC 	spec	tag_language	Haryanvi	
+BGQ 	spec	tag_language	Bagri	
+BGR 	spec	tag_language	Bulgarian	
+BHI 	spec	tag_language	Bhili	
+BHO 	spec	tag_language	Bhojpuri	
+BIK 	spec	tag_language	Bikol	
+BIL 	spec	tag_language	Bilen	
+BIS 	spec	tag_language	Bislama	
+BJJ 	spec	tag_language	Kanauji	
+BKF 	spec	tag_language	Blackfoot	
+BLI 	spec	tag_language	Baluchi	
+BLK 	spec	tag_language	Pa’o Karen	
+BLN 	spec	tag_language	Balante	
+BLT 	spec	tag_language	Balti	
+BMB 	spec	tag_language	Bambara (Bamanankan)	
+BML 	spec	tag_language	Bamileke	
+BOS 	spec	tag_language	Bosnian	
+BPY 	spec	tag_language	Bishnupriya Manipuri	
+BRE 	spec	tag_language	Breton	
+BRH 	spec	tag_language	Brahui	
+BRI 	spec	tag_language	Braj Bhasha	
+BRM 	spec	tag_language	Burmese	
+BRX 	spec	tag_language	Bodo	
+BSH 	spec	tag_language	Bashkir	
+BSK 	spec	tag_language	Burushaski	
+BTD 	spec	tag_language	Batak Dairi (Pakpak)	
+BTI 	spec	tag_language	Beti	
+BTK 	spec	tag_language	Batak languages	
+BTM 	spec	tag_language	Batak Mandailing	
+BTS 	spec	tag_language	Batak Simalungun	
+BTX 	spec	tag_language	Batak Karo	
+BTZ 	spec	tag_language	Batak Alas-Kluet	
+BUG 	spec	tag_language	Bugis	
+BYV 	spec	tag_language	Medumba	
+CAK 	spec	tag_language	Kaqchikel	
+CAT 	spec	tag_language	Catalan	
+CAY 	spec	tag_language	Cayuga	
+CBG 	spec	tag_language	Chimila	
+CBK 	spec	tag_language	Zamboanga Chavacano	
+CCHN	spec	tag_language	Chinantec	
+CEB 	spec	tag_language	Cebuano	
+CGG 	spec	tag_language	Chiga	
+CHA 	spec	tag_language	Chamorro	
+CHE 	spec	tag_language	Chechen	
+CHG 	spec	tag_language	Chaha Gurage	
+CHH 	spec	tag_language	Chattisgarhi	
+CHI 	spec	tag_language	Chichewa (Chewa, Nyanja)	
+CHK 	spec	tag_language	Chukchi	
+CHK0	spec	tag_language	Chuukese	
+CHO 	spec	tag_language	Choctaw	
+CHP 	spec	tag_language	Chipewyan	
+CHR 	spec	tag_language	Cherokee	
+CHU 	spec	tag_language	Chuvash	
+CHY 	spec	tag_language	Cheyenne	
+CJA 	spec	tag_language	Western Cham	
+CJM 	spec	tag_language	Eastern Cham	
+CMI 	spec	tag_language	Emberá-Chamí	
+CMR 	spec	tag_language	Comorian	
+COO 	spec	tag_language	Comox	
+COP 	spec	tag_language	Coptic	
+COR 	spec	tag_language	Cornish	
+COS 	spec	tag_language	Corsican	
+CPP 	spec	tag_language	Creoles	
+CRE 	spec	tag_language	Cree	
+CRR 	spec	tag_language	Carrier	
+CRT 	spec	tag_language	Crimean Tatar	
+CSB 	spec	tag_language	Kashubian	
+CSL 	spec	tag_language	Church Slavonic	
+CSY 	spec	tag_language	Czech	
+CTG 	spec	tag_language	Chittagonian	
+CTO 	spec	tag_language	Emberá-Catío	
+CTT 	spec	tag_language	Wayanad Chetti	
+CUK 	spec	tag_language	San Blas Kuna	
+DAG 	spec	tag_language	Dagbani	
+DAN 	spec	tag_language	Danish	
+DAR 	spec	tag_language	Dargwa	
+DAX 	spec	tag_language	Dayi	
+DCR 	spec	tag_language	Woods Cree	
+DEU 	spec	tag_language	German	
+DGO 	spec	tag_language	Dogri (individual language)	
+DGR 	spec	tag_language	Dogri (macrolanguage)	
+DHG 	spec	tag_language	Dhangu	
+DHV 	spec	tag_language	(deprecated) Divehi (Dhivehi, Maldivian)	
+DIQ 	spec	tag_language	Dimli	
+DIV 	spec	tag_language	Divehi (Dhivehi, Maldivian)	
+DJR 	spec	tag_language	Zarma	
+DJR0	spec	tag_language	Djambarrpuyngu	
+DNG 	spec	tag_language	Dangme	
+DNJ 	spec	tag_language	Dan	
+DNK 	spec	tag_language	Dinka	
+DRI 	spec	tag_language	Dari	
+DUJ 	spec	tag_language	Dhuwal	
+DUN 	spec	tag_language	Dungan	
+DZN 	spec	tag_language	Dzongkha	
+EBI 	spec	tag_language	Ebira	
+ECR 	spec	tag_language	Eastern Cree	
+EDO 	spec	tag_language	Edo	
+EFI 	spec	tag_language	Efik	
+ELL 	spec	tag_language	Greek	
+EMK 	spec	tag_language	Eastern Maninkakan	
+EMP 	spec	tag_language	Northern Emberá	
+ENG 	spec	tag_language	English	
+ERZ 	spec	tag_language	Erzya	
+ESP 	spec	tag_language	Spanish	
+ESU 	spec	tag_language	Central Yupik	
+ETI 	spec	tag_language	Estonian	
+EUQ 	spec	tag_language	Basque	
+EVK 	spec	tag_language	Evenki	
+EVN 	spec	tag_language	Even	
+EWE 	spec	tag_language	Ewe	
+FAN 	spec	tag_language	French Antillean	
+FAN0	spec	tag_language	Fang	
+FAR 	spec	tag_language	Persian	
+FAT 	spec	tag_language	Fanti	
+FIN 	spec	tag_language	Finnish	
+FJI 	spec	tag_language	Fijian	
+FLE 	spec	tag_language	Dutch (Flemish)	
+FMP 	spec	tag_language	Fe’fe’	
+FNE 	spec	tag_language	Forest Enets	
+FON 	spec	tag_language	Fon	
+FOS 	spec	tag_language	Faroese	
+FRA 	spec	tag_language	French	
+FRC 	spec	tag_language	Cajun French	
+FRI 	spec	tag_language	Frisian	
+FRL 	spec	tag_language	Friulian	
+FRP 	spec	tag_language	Arpitan	
+FTA 	spec	tag_language	Futa	
+FUL 	spec	tag_language	Fulah	
+FUV 	spec	tag_language	Nigerian Fulfulde	
+GAD 	spec	tag_language	Ga	
+GAE 	spec	tag_language	Scottish Gaelic	
+GAG 	spec	tag_language	Gagauz	
+GAL 	spec	tag_language	Galician	
+GAR 	spec	tag_language	Garshuni	
+GAW 	spec	tag_language	Garhwali	
+GEZ 	spec	tag_language	Geez	
+GIH 	spec	tag_language	Githabul	
+GIL 	spec	tag_language	Gilyak	
+GIL0	spec	tag_language	Kiribati (Gilbertese)	
+GKP 	spec	tag_language	Kpelle (Guinea)	
+GLK 	spec	tag_language	Gilaki	
+GMZ 	spec	tag_language	Gumuz	
+GNN 	spec	tag_language	Gumatj	
+GOG 	spec	tag_language	Gogo	
+GON 	spec	tag_language	Gondi	
+GRN 	spec	tag_language	Greenlandic	
+GRO 	spec	tag_language	Garo	
+GUA 	spec	tag_language	Guarani	
+GUC 	spec	tag_language	Wayuu	
+GUF 	spec	tag_language	Gupapuyngu	
+GUJ 	spec	tag_language	Gujarati	
+GUZ 	spec	tag_language	Gusii	
+HAI 	spec	tag_language	Haitian (Haitian Creole)	
+HAI0	spec	tag_language	Haida	
+HAL 	spec	tag_language	Halam (Falam Chin)	
+HAR 	spec	tag_language	Harauti	
+HAU 	spec	tag_language	Hausa	
+HAW 	spec	tag_language	Hawaiian	
+HAY 	spec	tag_language	Haya	
+HAZ 	spec	tag_language	Hazaragi	
+HBN 	spec	tag_language	Hammer-Banna	
+HEI 	spec	tag_language	Heiltsuk	
+HER 	spec	tag_language	Herero	
+HIL 	spec	tag_language	Hiligaynon	
+HIN 	spec	tag_language	Hindi	
+HMA 	spec	tag_language	High Mari	
+HMD 	spec	tag_language	A-Hmao	
+HMN 	spec	tag_language	Hmong	
+HMO 	spec	tag_language	Hiri Motu	
+HMZ 	spec	tag_language	Hmong Shuat	
+HND 	spec	tag_language	Hindko	
+HO 	spec	tag_language	Ho	
+HRI 	spec	tag_language	Harari	
+HRV 	spec	tag_language	Croatian	
+HUN 	spec	tag_language	Hungarian	
+HUR 	spec	tag_language	Halkomelem	
+HYE 	spec	tag_language	Armenian	
+HYE0	spec	tag_language	Armenian East	
+IBA 	spec	tag_language	Iban	
+IBB 	spec	tag_language	Ibibio	
+IBO 	spec	tag_language	Igbo	
+IDO 	spec	tag_language	Ido	
+IJO 	spec	tag_language	Ijo languages	
+ILE 	spec	tag_language	Interlingue	
+ILO 	spec	tag_language	Ilokano	
+INA 	spec	tag_language	Interlingua	
+IND 	spec	tag_language	Indonesian	
+ING 	spec	tag_language	Ingush	
+INU 	spec	tag_language	Inuktitut	
+INUK	spec	tag_language	Nunavik Inuktitut	
+IPK 	spec	tag_language	Inupiat	
+IPPH	spec	tag_language	Phonetic transcription—IPA conventions	
+IRI 	spec	tag_language	Irish	
+IRT 	spec	tag_language	Irish Traditional	
+IRU 	spec	tag_language	Irula	
+ISL 	spec	tag_language	Icelandic	
+ISM 	spec	tag_language	Inari Sami	
+ITA 	spec	tag_language	Italian	
+IWR 	spec	tag_language	Hebrew	
+JAM 	spec	tag_language	Jamaican Creole	
+JAN 	spec	tag_language	Japanese	
+JAV 	spec	tag_language	Javanese	
+JBO 	spec	tag_language	Lojban	
+JCT 	spec	tag_language	Krymchak	
+JDT 	spec	tag_language	Judeo-Tat	
+JII 	spec	tag_language	Yiddish	
+JUD 	spec	tag_language	Ladino	
+JUL 	spec	tag_language	Jula	
+KAB 	spec	tag_language	Kabardian	
+KAB0	spec	tag_language	Kabyle	
+KAC 	spec	tag_language	Kachchi	
+KAL 	spec	tag_language	Kalenjin	
+KAN 	spec	tag_language	Kannada	
+KAR 	spec	tag_language	Karachay	
+KAT 	spec	tag_language	Georgian	
+KAW 	spec	tag_language	Kawi (Old Javanese)	
+KAZ 	spec	tag_language	Kazakh	
+KBC 	spec	tag_language	Kadiwéu	
+KDE 	spec	tag_language	Makonde	
+KEA 	spec	tag_language	Kabuverdianu (Crioulo)	
+KEB 	spec	tag_language	Kebena	
+KEK 	spec	tag_language	Kekchi	
+KGE 	spec	tag_language	Khutsuri Georgian	
+KGF 	spec	tag_language	Kube	
+KHA 	spec	tag_language	Khakass	
+KHK 	spec	tag_language	Khanty-Kazim	
+KHM 	spec	tag_language	Khmer	
+KHS 	spec	tag_language	Khanty-Shurishkar	
+KHT 	spec	tag_language	Khamti Shan	
+KHV 	spec	tag_language	Khanty-Vakhi	
+KHW 	spec	tag_language	Khowar	
+KIK 	spec	tag_language	Kikuyu (Gikuyu)	
+KIR 	spec	tag_language	Kirghiz (Kyrgyz)	
+KIS 	spec	tag_language	Kisii	
+KIU 	spec	tag_language	Kirmanjki	
+KJD 	spec	tag_language	Southern Kiwai	
+KJJ 	spec	tag_language	Khinalug	
+KJP 	spec	tag_language	Eastern Pwo Karen	
+KJZ 	spec	tag_language	Bumthangkha	
+KKN 	spec	tag_language	Kokni	
+KLM 	spec	tag_language	Kalmyk	
+KMB 	spec	tag_language	Kamba	
+KMG 	spec	tag_language	Kâte	
+KMN 	spec	tag_language	Kumaoni	
+KMO 	spec	tag_language	Komo	
+KMS 	spec	tag_language	Komso	
+KMZ 	spec	tag_language	Khorasani Turkic	
+KNR 	spec	tag_language	Kanuri	
+KOD 	spec	tag_language	Kodagu	
+KOH 	spec	tag_language	Korean Old Hangul	
+KOK 	spec	tag_language	Konkani	
+KOM 	spec	tag_language	Komi	
+KON 	spec	tag_language	Kikongo	
+KON0	spec	tag_language	Kongo	
+KOP 	spec	tag_language	Komi-Permyak	
+KOR 	spec	tag_language	Korean	
+KOS 	spec	tag_language	Kosraean	
+KOZ 	spec	tag_language	Komi-Zyrian	
+KPL 	spec	tag_language	Kpelle	
+KRI 	spec	tag_language	Krio	
+KRK 	spec	tag_language	Karakalpak	
+KRL 	spec	tag_language	Karelian	
+KRM 	spec	tag_language	Karaim	
+KRN 	spec	tag_language	Karen	
+KRT 	spec	tag_language	Koorete	
+KSH 	spec	tag_language	Kashmiri	
+KSH0	spec	tag_language	Ripuarian	
+KSI 	spec	tag_language	Khasi	
+KSM 	spec	tag_language	Kildin Sami	
+KSU 	spec	tag_language	Khamyang	
+KSW 	spec	tag_language	S’gaw Karen	
+KUA 	spec	tag_language	Kuanyama	
+KUI 	spec	tag_language	Kui	
+KUL 	spec	tag_language	Kulvi	
+KUM 	spec	tag_language	Kumyk	
+KUR 	spec	tag_language	Kurdish	
+KUU 	spec	tag_language	Kurukh	
+KUY 	spec	tag_language	Kuy	
+KVQ 	spec	tag_language	Geba Karen	
+KWK 	spec	tag_language	Kwakʼwala	
+KYK 	spec	tag_language	Koryak	
+KYU 	spec	tag_language	Western Kayah	
+LAD 	spec	tag_language	Ladin	
+LAH 	spec	tag_language	Lahuli	
+LAK 	spec	tag_language	Lak	
+LAM 	spec	tag_language	Lambani	
+LAO 	spec	tag_language	Lao	
+LAT 	spec	tag_language	Latin	
+LAZ 	spec	tag_language	Laz	
+LCR 	spec	tag_language	L-Cree	
+LDK 	spec	tag_language	Ladakhi	
+LEF 	spec	tag_language	Lelemi	
+LEZ 	spec	tag_language	Lezgi	
+LIJ 	spec	tag_language	Ligurian	
+LIM 	spec	tag_language	Limburgish	
+LIN 	spec	tag_language	Lingala	
+LIS 	spec	tag_language	Lisu	
+LIV 	spec	tag_language	Liv	
+LJP 	spec	tag_language	Lampung	
+LKI 	spec	tag_language	Laki	
+LMA 	spec	tag_language	Low Mari	
+LMB 	spec	tag_language	Limbu	
+LMO 	spec	tag_language	Lombard	
+LMW 	spec	tag_language	Lomwe	
+LOM 	spec	tag_language	Loma	
+LPO 	spec	tag_language	Lipo	
+LRC 	spec	tag_language	Luri	
+LSB 	spec	tag_language	Lower Sorbian	
+LSM 	spec	tag_language	Lule Sami	
+LTH 	spec	tag_language	Lithuanian	
+LTZ 	spec	tag_language	Luxembourgish	
+LUA 	spec	tag_language	Luba-Lulua	
+LUB 	spec	tag_language	Luba-Katanga	
+LUG 	spec	tag_language	Ganda	
+LUH 	spec	tag_language	Luyia	
+LUO 	spec	tag_language	Luo	
+LUT 	spec	tag_language	Lushootseed	
+LVI 	spec	tag_language	Latvian	
+MAD 	spec	tag_language	Madura	
+MAG 	spec	tag_language	Magahi	
+MAH 	spec	tag_language	Marshallese	
+MAJ 	spec	tag_language	Majang	
+MAK 	spec	tag_language	Makhuwa	
+MAL 	spec	tag_language	Malayalam	
+MAM 	spec	tag_language	Mam	
+MAN 	spec	tag_language	Mansi	
+MAP 	spec	tag_language	Mapudungun	
+MAR 	spec	tag_language	Marathi	
+MAW 	spec	tag_language	Marwari	
+MBN 	spec	tag_language	Mbundu	
+MBO 	spec	tag_language	Mbo	
+MCH 	spec	tag_language	Manchu	
+MCR 	spec	tag_language	Moose Cree	
+MDE 	spec	tag_language	Mende	
+MDR 	spec	tag_language	Mandar	
+MEN 	spec	tag_language	Me’en	
+MER 	spec	tag_language	Meru	
+MEV 	spec	tag_language	Mano	
+MFA 	spec	tag_language	Pattani Malay	
+MFE 	spec	tag_language	Morisyen	
+MIN 	spec	tag_language	Minangkabau	
+MIZ 	spec	tag_language	Mizo	
+MKD 	spec	tag_language	Macedonian	
+MKR 	spec	tag_language	Makasar	
+MKW 	spec	tag_language	Kituba	
+MLE 	spec	tag_language	Male	
+MLG 	spec	tag_language	Malagasy	
+MLN 	spec	tag_language	Malinke	
+MLR 	spec	tag_language	Malayalam Reformed	
+MLY 	spec	tag_language	Malay	
+MND 	spec	tag_language	Mandinka	
+MNG 	spec	tag_language	Mongolian	
+MNI 	spec	tag_language	Manipuri	
+MNK 	spec	tag_language	Maninka	
+MNX 	spec	tag_language	Manx	
+MOH 	spec	tag_language	Mohawk	
+MOK 	spec	tag_language	Moksha	
+MOL 	spec	tag_language	Moldavian	
+MON 	spec	tag_language	Mon	
+MONT	spec	tag_language	Thailand Mon	
+MOR 	spec	tag_language	Moroccan	
+MOS 	spec	tag_language	Mossi	
+MRI 	spec	tag_language	Maori	
+MTH 	spec	tag_language	Maithili	
+MTS 	spec	tag_language	Maltese	
+MUN 	spec	tag_language	Mundari	
+MUS 	spec	tag_language	Muscogee	
+MWL 	spec	tag_language	Mirandese	
+MWW 	spec	tag_language	Hmong Daw	
+MYN 	spec	tag_language	Mayan	
+MZN 	spec	tag_language	Mazanderani	
+NAG 	spec	tag_language	Naga-Assamese	
+NAH 	spec	tag_language	Nahuatl	
+NAN 	spec	tag_language	Nanai	
+NAP 	spec	tag_language	Neapolitan	
+NAS 	spec	tag_language	Naskapi	
+NAU 	spec	tag_language	Nauruan	
+NAV 	spec	tag_language	Navajo	
+NCR 	spec	tag_language	N-Cree	
+NDB 	spec	tag_language	Ndebele	
+NDC 	spec	tag_language	Ndau	
+NDG 	spec	tag_language	Ndonga	
+NDS 	spec	tag_language	Low Saxon	
+NEP 	spec	tag_language	Nepali	
+NEW 	spec	tag_language	Newari	
+NGA 	spec	tag_language	Ngbaka	
+NGR 	spec	tag_language	Nagari	
+NHC 	spec	tag_language	Norway House Cree	
+NIS 	spec	tag_language	Nisi	
+NIU 	spec	tag_language	Niuean	
+NKL 	spec	tag_language	Nyankole	
+NKO 	spec	tag_language	N’Ko	
+NLD 	spec	tag_language	Dutch	
+NOE 	spec	tag_language	Nimadi	
+NOG 	spec	tag_language	Nogai	
+NOP 	spec	tag_language	Numanggang	
+NOR 	spec	tag_language	Norwegian	
+NOV 	spec	tag_language	Novial	
+NSM 	spec	tag_language	Northern Sami	
+NSO 	spec	tag_language	Northern Sotho	
+NTA 	spec	tag_language	Northern Tai	
+NTO 	spec	tag_language	Esperanto	
+NUK 	spec	tag_language	Nuu-chah-nulth	
+NYM 	spec	tag_language	Nyamwezi	
+NYN 	spec	tag_language	Norwegian Nynorsk (Nynorsk, Norwegian)	
+NZA 	spec	tag_language	Mbembe Tigon	
+OCI 	spec	tag_language	Occitan	
+OCR 	spec	tag_language	Oji-Cree	
+OJB 	spec	tag_language	Ojibway	
+ONE 	spec	tag_language	Oneida	
+ONO 	spec	tag_language	Onondaga	
+ORI 	spec	tag_language	Odia	
+ORO 	spec	tag_language	Oromo	
+OSS 	spec	tag_language	Ossetian	
+PAA 	spec	tag_language	Palestinian Aramaic	
+PAG 	spec	tag_language	Pangasinan	
+PAL 	spec	tag_language	Pali	
+PAM 	spec	tag_language	Pampangan	
+PAN 	spec	tag_language	Punjabi	
+PAP 	spec	tag_language	Palpa	
+PAP0	spec	tag_language	Papiamentu	
+PAS 	spec	tag_language	Pashto	
+PAU 	spec	tag_language	Palauan	
+PCC 	spec	tag_language	Bouyei	
+PCD 	spec	tag_language	Picard	
+PDC 	spec	tag_language	Pennsylvania German	
+PGR 	spec	tag_language	Polytonic Greek	
+PHK 	spec	tag_language	Phake	
+PIH 	spec	tag_language	Norfolk	
+PIL 	spec	tag_language	Filipino	
+PLG 	spec	tag_language	Palaung	
+PLG0	spec	tag_language	Pilagá	
+PLK 	spec	tag_language	Polish	
+PMS 	spec	tag_language	Piemontese	
+PNB 	spec	tag_language	Western Panjabi	
+POH 	spec	tag_language	Pocomchi	
+PON 	spec	tag_language	Pohnpeian	
+PRO 	spec	tag_language	Provençal / Old Provençal	
+PTG 	spec	tag_language	Portuguese	
+PWO 	spec	tag_language	Western Pwo Karen	
+QIN 	spec	tag_language	Chin	
+QUC 	spec	tag_language	K’iche’	
+QUH 	spec	tag_language	Quechua (Bolivia)	
+QUZ 	spec	tag_language	Quechua	
+QVI 	spec	tag_language	Quechua (Ecuador)	
+QWH 	spec	tag_language	Quechua (Peru)	
+RAJ 	spec	tag_language	Rajasthani	
+RAR 	spec	tag_language	Rarotongan	
+RBU 	spec	tag_language	Russian Buriat	
+RCR 	spec	tag_language	R-Cree	
+REJ 	spec	tag_language	Rejang	
+RIA 	spec	tag_language	Riang	
+RHG 	spec	tag_language	Rohingya	
+RIF 	spec	tag_language	Tarifit	
+RIT 	spec	tag_language	Ritarungo	
+RKW 	spec	tag_language	Arakwal	
+RMS 	spec	tag_language	Romansh	
+RMY 	spec	tag_language	Vlax Romani	
+ROM 	spec	tag_language	Romanian	
+ROY 	spec	tag_language	Romany	
+RSY 	spec	tag_language	Rusyn	
+RTM 	spec	tag_language	Rotuman	
+RUA 	spec	tag_language	Kinyarwanda	
+RUN 	spec	tag_language	Rundi	
+RUP 	spec	tag_language	Aromanian	
+RUS 	spec	tag_language	Russian	
+SAD 	spec	tag_language	Sadri	
+SAN 	spec	tag_language	Sanskrit	
+SAS 	spec	tag_language	Sasak	
+SAT 	spec	tag_language	Santali	
+SAY 	spec	tag_language	Sayisi	
+SCN 	spec	tag_language	Sicilian	
+SCO 	spec	tag_language	Scots	
+SCS 	spec	tag_language	North Slavey	
+SEE 	spec	tag_language	Seneca	
+SEK 	spec	tag_language	Sekota	
+SEL 	spec	tag_language	Selkup	
+SFM 	spec	tag_language	Small Flowery Miao	
+SGA 	spec	tag_language	Old Irish	
+SGO 	spec	tag_language	Sango	
+SGS 	spec	tag_language	Samogitian	
+SHI 	spec	tag_language	Tachelhit	
+SHN 	spec	tag_language	Shan	
+SIB 	spec	tag_language	Sibe	
+SID 	spec	tag_language	Sidamo	
+SIG 	spec	tag_language	Silte Gurage	
+SJA 	spec	tag_language	Epena	
+SJE 	spec	tag_language	Pite Sami	
+SJU 	spec	tag_language	Ume Sami	
+SKS 	spec	tag_language	Skolt Sami	
+SKY 	spec	tag_language	Slovak	
+SLA 	spec	tag_language	Slavey	
+SLV 	spec	tag_language	Slovenian	
+SML 	spec	tag_language	Somali	
+SMO 	spec	tag_language	Samoan	
+SNA 	spec	tag_language	Sena	
+SNA0	spec	tag_language	Shona	
+SND 	spec	tag_language	Sindhi	
+SNH 	spec	tag_language	Sinhala (Sinhalese)	
+SNK 	spec	tag_language	Soninke	
+SOG 	spec	tag_language	Sodo Gurage	
+SOP 	spec	tag_language	Songe	
+SOT 	spec	tag_language	Southern Sotho	
+SQI 	spec	tag_language	Albanian	
+SRB 	spec	tag_language	Serbian	
+SRD 	spec	tag_language	Sardinian	
+SRK 	spec	tag_language	Saraiki	
+SRR 	spec	tag_language	Serer	
+SSL 	spec	tag_language	South Slavey	
+SSM 	spec	tag_language	Southern Sami	
+STR 	spec	tag_language	Straits Salish	
+STQ 	spec	tag_language	Saterland Frisian	
+SUK 	spec	tag_language	Sukuma	
+SUN 	spec	tag_language	Sundanese	
+SUR 	spec	tag_language	Suri	
+SVA 	spec	tag_language	Svan	
+SVE 	spec	tag_language	Swedish	
+SWA 	spec	tag_language	Swadaya Aramaic	
+SWK 	spec	tag_language	Swahili	
+SWZ 	spec	tag_language	Swati	
+SXT 	spec	tag_language	Sutu	
+SXU 	spec	tag_language	Upper Saxon	
+SYL 	spec	tag_language	Sylheti	
+SYR 	spec	tag_language	Syriac	
+SYRE	spec	tag_language	Syriac, Estrangela script-variant	
+SYRJ	spec	tag_language	Syriac, Western script-variant	
+SYRN	spec	tag_language	Syriac, Eastern script-variant	
+SZL 	spec	tag_language	Silesian	
+TAB 	spec	tag_language	Tabasaran	
+TAJ 	spec	tag_language	Tajiki	
+TAM 	spec	tag_language	Tamil	
+TAQ 	spec	tag_language	Tamasheq	
+TAT 	spec	tag_language	Tatar	
+TBV 	spec	tag_language	Tobo	
+TCR 	spec	tag_language	TH-Cree	
+TDC 	spec	tag_language	Emberá-Tadó	
+TDD 	spec	tag_language	Dehong Dai	
+TEL 	spec	tag_language	Telugu	
+TET 	spec	tag_language	Tetum	
+TGL 	spec	tag_language	Tagalog	
+TGN 	spec	tag_language	Tongan	
+TGR 	spec	tag_language	Tigre	
+TGY 	spec	tag_language	Tigrinya	
+THA 	spec	tag_language	Thai	
+THT 	spec	tag_language	Tahitian	
+THP 	spec	tag_language	Thompson	
+THV 	spec	tag_language	Tahaggart Tamahaq	
+THZ 	spec	tag_language	Tayart Tamajeq	
+TIB 	spec	tag_language	Tibetan	
+TIV 	spec	tag_language	Tiv	
+TJL 	spec	tag_language	Tai Laing	
+TKM 	spec	tag_language	Turkmen	
+TLI 	spec	tag_language	Tlingit	
+TMH 	spec	tag_language	Tamashek	
+TLY 	spec	tag_language	Talysh	
+TMN 	spec	tag_language	Temne	
+TNA 	spec	tag_language	Tswana	
+TNE 	spec	tag_language	Tundra Enets	
+TNG 	spec	tag_language	Tonga	
+TOD 	spec	tag_language	Todo	
+TOD0	spec	tag_language	Toma	
+TPI 	spec	tag_language	Tok Pisin	
+TRK 	spec	tag_language	Turkish	
+TSG 	spec	tag_language	Tsonga	
+TSJ 	spec	tag_language	Tshangla	
+TTQ 	spec	tag_language	Tawallammat Tamajaq	
+TUA 	spec	tag_language	Turoyo Aramaic	
+TUL 	spec	tag_language	Tulu	
+TUM 	spec	tag_language	Tumbuka	
+TUS 	spec	tag_language	Tuscarora	
+TUV 	spec	tag_language	Tuvin	
+TVL 	spec	tag_language	Tuvalu	
+TWI 	spec	tag_language	Twi	
+TYZ 	spec	tag_language	Tày	
+TZM 	spec	tag_language	Tamazight	
+TZO 	spec	tag_language	Tzotzil	
+UDI 	spec	tag_language	Udi	
+UDM 	spec	tag_language	Udmurt	
+UKR 	spec	tag_language	Ukrainian	
+UMB 	spec	tag_language	Umbundu	
+UPPH	spec	tag_language	Uralic Phonetic Alphabet	
+URD 	spec	tag_language	Urdu	
+USB 	spec	tag_language	Upper Sorbian	
+UYG 	spec	tag_language	Uyghur	
+UZB 	spec	tag_language	Uzbek	
+VEC 	spec	tag_language	Venetian	
+VEN 	spec	tag_language	Venda	
+VIT 	spec	tag_language	Vietnamese	
+VOL 	spec	tag_language	Volapük	
+VRO 	spec	tag_language	Võro	
+WA 	spec	tag_language	Wa	
+WAG 	spec	tag_language	Wagdi	
+WAR 	spec	tag_language	Waray-Waray	
+WBL 	spec	tag_language	Wakhi	
+WCI 	spec	tag_language	Waci Gbe	
+WCR 	spec	tag_language	West-Cree	
+WDT 	spec	tag_language	Wendat	
+WEL 	spec	tag_language	Welsh	
+WLF 	spec	tag_language	Wolof	
+WLN 	spec	tag_language	Walloon	
+WTM 	spec	tag_language	Mewati	
+WYN 	spec	tag_language	Wyandot	
+XBD 	spec	tag_language	Lü	
+XHS 	spec	tag_language	Xhosa	
+XJB 	spec	tag_language	Minjangbal	
+XKF 	spec	tag_language	Khengkha	
+XOG 	spec	tag_language	Soga	
+XPE 	spec	tag_language	Kpelle (Liberia)	
+XUB 	spec	tag_language	Bette Kuruma	
+XUJ 	spec	tag_language	Jennu Kuruma	
+YAK 	spec	tag_language	Sakha	
+YAO 	spec	tag_language	Yao	
+YAP 	spec	tag_language	Yapese	
+YBA 	spec	tag_language	Yoruba	
+YCR 	spec	tag_language	Y-Cree	
+YGP 	spec	tag_language	Gepo	
+YIC 	spec	tag_language	Yi Classic	
+YIM 	spec	tag_language	Yi Modern	
+YNA 	spec	tag_language	Aluo	
+YUF 	spec	tag_language	Havasupai-Walapai-Yavapai	
+YWQ 	spec	tag_language	Wuding-Luquan Yi	
+ZEA 	spec	tag_language	Zealandic	
+ZGH 	spec	tag_language	Standard Moroccan Tamazight	
+ZHA 	spec	tag_language	Zhuang	
+ZHH 	spec	tag_language	Chinese, Traditional, Hong Kong SAR	
+ZHP 	spec	tag_language	Chinese, Phonetic	
+ZHS 	spec	tag_language	Chinese, Simplified	
+ZHT 	spec	tag_language	Chinese, Traditional	
+ZHTM	spec	tag_language	Chinese, Traditional, Macao SAR	
+ZND 	spec	tag_language	Zande	
+ZUL 	spec	tag_language	Zulu	
+ZZA 	spec	tag_language	Zazaki	

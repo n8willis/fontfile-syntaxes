@@ -1,0 +1,111 @@
+token	source	category	definition
+acnt	apple	table	Accent attachment
+ankr	apple	table	Anchor point
+avar	spec	table	Axis variation
+BASE 	spec	table	Baseline data
+BBLH	bubblekern	table	Horizontal BubbleKern data
+bdat	apple	table	Bitmap data
+BDF  	fontforge	table	FontForge X11 BDF header
+bhed	apple	table	Bitmap font header
+bloc 	apple	table	Bitmap location data
+bsln 	apple	table	Baseline data
+CBDT 	spec	table	Color bitmap data
+CBLC 	spec	table	Color bitmap location data
+cidg	apple	table	CID-to-glyph mapping
+CFF 	spec	table	Compact Font Format
+CFF2	spec	table	Compact Font Format version 2
+clas	apple	table	Apple TrueEdit names
+cmap 	spec	table	Character to glyph mapping
+COLR 	spec	table	Color table
+CPAL 	spec	table	Color palette table
+cvar 	spec	table	Variations on CVT table
+cvt 	spec	table	Control value table
+Debg	fonttools	table	FontTools debugging
+DSIG 	spec	table	Digital signature
+edt0	apple	table	Apple RoyalT data
+edt1	apple	table	Apple RoyalT data
+EBDT 	spec	table	Embedded bitmap data
+EBLC 	spec	table	Embedded bitmap location
+EBSC	spec	table	Embedded bitmap scaling control
+EPAR	proposed	table	End-user license agreement
+fdsc	apple	table	Font descriptor
+feat 	apple	table	Layout feature table
+Feat	graphite	table	Graphite features
+FFTM 	fontforge	table	FontForge timestamp
+fmtx	apple	table	Font metrics
+fond	apple	table	Font family compatibility
+fpgm 	spec	table	Font program
+fvar	spec	table	Font variation
+gasp	spec	table	Grid-fitting and scan-conversion procedure
+gcid	apple	table	Glyph-to-CID mapping
+GDEF 	spec	table	Glyph definition data
+Glat	graphite	table	Glyph attributes table
+Gloc	graphite	table	Indexes for Glat table
+glyf	spec	table	Glyph outline
+GMAP	adobe	table	Adobe self-contained glyphlets ????????????????????
+GPKG	adobe	table	Adobe self-contained glyphlets ????????????????????
+GPOS 	spec	table	Glyph positioning data
+GSUB 	spec	table	Glyph substitution data
+gvar	spec	table	Glyph variation
+hdmx 	spec	table	Horizontal device metrics
+head 	spec	table	Font header
+hhea 	spec	table	Horizontal header
+hmtx 	spec	table	Horizontal metrics
+HVAR	spec	table	Horizontal metrics variations
+hvgl	apple	table	Hierarchical Variation glyphs and components
+hvpm	apple	table	Hierarchical Variation part remapping
+JSTF 	spec	table	Justification data
+just	apple	table	Justification
+kern 	spec	table	Kerning
+kerx	apple	table	Extended kerning
+lcar	apple	table	Ligature caret
+loca	spec	table	Glyph location
+ltag	apple	table	Language tag
+LTSH 	spec	table	Linear threshold data
+MATH 	spec	table	Mathematical typesetting
+maxp 	spec	table	Maximum profile
+MERG	spec	table	Merge
+meta	spec	table	Metadata
+META	adobe	table	Adobe self-contained glyphlets ??????????????????????
+mort	apple	table	Metamorphosis (deprecated)
+morx	apple	table	Extended metamorphosis
+MVAR	spec	table	Metrics variations
+name 	spec	table	Name
+opbd 	apple	table	Optical bounds
+OS/2 	spec	table	OS/2 and Windows specific metrics
+PCLT 	spec	table	PCL 5 data
+PfEd 	fontforge	table	FontForge data
+post	spec	table	Glyph name and PostScript compatibility
+prep	spec	table	Control value program
+prop 	apple	table	Glyph properties
+sbix	spec	table	Extended bitmaps
+Silf	graphite	table	Main logic, including finite state machine for rule matching, constraints, and rule action code
+Sill	graphite	table	Language table, containing mappings between language codes and features
+SING	adobe	table	Adobe self-contained glyphlets
+STAT	spec	table	Style attributes
+SVG 	spec	table	Scalable Vector Graphics
+TeX 	graphite	table	TeX information
+TR00	apple	table	TrueEdit source
+TSI0	microsoft	table	VTT Glyph program text indices
+TSI1	microsoft	table	VTT Glyph program text UTF-8 text dump
+TSI2	microsoft	table	VTT Talk text indices
+TSI3	microsoft	table	VTT Talk UTF-8 text dump
+TSI5	microsoft	table	VTT Character group flag
+TSIB	microsoft	table	VTT BASE table text source
+TSIC	microsoft	table	VTT Variation CVT window source
+TSID	microsoft	table	VTT GDEF table text source
+TSIJ	microsoft	table	VTT JSTF table text source
+TSIP	microsoft	table	VTT GPOS table text source
+TSIS	microsoft	table	VTT GSUB table text source
+TSIV	microsoft	table	VTT data
+TTFA	ttfautohint	table	TTFautohint parameters
+trak	apple	table	Tracking
+varc	spec	table	Variable components
+VDMX 	spec	table	Vertical device metrics
+vhea 	spec	table	Vertical Metrics header
+vmtx 	spec	table	Vertical Metrics
+VOLT	microsoft	table	Visual OpenType Layout data
+VORG 	spec	table	Vertical Origin
+VVAR	spec	table	Vertical metrics variations
+xref	apple	table	Cross-reference
+Zapf	apple	table	Glyph reference
